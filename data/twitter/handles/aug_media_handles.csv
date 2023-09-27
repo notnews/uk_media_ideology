@@ -1,0 +1,1172 @@
+OutletID,Outlet,Type,JournalistID,Twitter Handle,Journalist,Website,Owner,Nexis,NexisBeginning,NexisEnd,Newsbank,NewsbankBeginning,NewsbankEnd,Type,Publication,Category,City,Notes
+100,BBC Daily Politics Show,TV,100,@daily_politics,,http://www.bbc.co.uk/programmes/p00ly0k7,Public Service,,,,,,,,,,,
+100,BBC Daily Politics Show,Journalist TV,101,@afneil,Andrew Neil,http://www.bbc.co.uk/programmes/p00ly0k8,Public Service,,,,,,,,,,,Presenter and Journalist
+100,BBC Daily Politics Show,Journalist TV,102,@Jo_Coburn,Jo Coburn,http://www.bbc.co.uk/programmes/p00ly0k9,Public Service,,,,,,,,,,,Presenter and Journalist
+200,BBC News,TV,200,@BBCNews,,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,
+200,BBC News,Journalist TV,201,@huwbbc,Huw Edwards,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,Presenter
+200,BBC News,Journalist TV,202,@sophieraworth,Sophie Raworth,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,Presenter
+200,BBC News,Journalist TV,203,@katesilverton1,Kate Silverton,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,Presenter
+200,BBC News,Journalist TV,204,@bbckamal,Kamal Ahmed,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,BBC Economics Editor
+200,BBC News,Journalist TV,205,@BBCSimonJack,Simon Jack,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,BBC Business Editor
+200,BBC News,Journalist TV,206,@bbclaurak,Laura Kuenssberg,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,BBC Political Editor
+200,BBC News,Journalist TV,207,@BBCHughPym,Hugh Pym,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,BBC Health Editor
+200,BBC News,Journalist TV,208,@FrankRGardner,Frank Gardner,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,BBC Security Correspondent
+200,BBC News,Journalist TV,209,@bealejonathan,Jonathan Beale,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,BBC Defence Correspondent
+200,BBC News,Journalist TV,210,@DannyShawBBC,Danny Shaw,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,BBC Home Affairs Correspondent
+200,BBC News,Journalist TV,211,@BBCDomC,Dominic Casciani,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,BBC Home Affairs Correspondent
+200,BBC News,Journalist TV,212,@BBCAmos,Jonathan Amos,http://www.bbc.co.uk/news,Public Service,,,,,,,,,,,BBC Science Correspondent
+300,BBC Newsnight,TV,300,@BBCNewsnight,,http://www.bbc.co.uk/programmes/b006mk25,Public Service,,,,,,,,,,,
+300,BBC Newsnight,Journalist TV,301,@EvanHD,Evan Davis,http://www.bbc.co.uk/programmes/b006mk26,Public Service,,,,,,,,,,,Presenter and Journalist
+300,BBC Newsnight,Journalist TV,302,@KirstyWark,Kirsty Wark,http://www.bbc.co.uk/programmes/b006mk27,Public Service,,,,,,,,,,,Presenter and Journalist
+300,BBC Newsnight,Journalist TV,303,@maitlis,Emily Maitlis,http://www.bbc.co.uk/programmes/b006mk28,Public Service,,,,,,,,,,,Presenter and Journalist
+300,BBC Newsnight,Journalist TV,304,@katierazz,Katie Razzall,http://www.bbc.co.uk/programmes/b006mk29,Public Service,,,,,,,,,,,Special Correspondent
+400,BBC Radio Four PM,Radio,400,@BBCPM,,http://www.bbc.co.uk/programmes/b006qskw,Public Service,,,,,,,,,,,
+400,BBC Radio Four PM,Journalist Radio,401,@eddiemair,Eddie Mair,http://www.bbc.co.uk/programmes/b006qskw,Public Service,,,,,,,,,,,
+500,BBC Radio Four Today,Radio,500,@BBCr4today,,http://www.bbc.co.uk/programmes/b006qj9z ,Public Service,,,,,,,,,,,
+500,BBC Radio Four Today,Journalist Radio,501,@JohnHumphrysr4,John Humphrys,http://www.bbc.co.uk/programmes/b006qj9z ,Public Service,,,,,,,,,,,
+500,BBC Radio Four Today,Journalist Radio,502,@Sarah_Montague,Sarah Monatgue,http://www.bbc.co.uk/programmes/b006qj9z ,Public Service,,,,,,,,,,,
+500,BBC Radio Four Today,Journalist Radio,503,@JustinOnWeb,Justin Webb,http://www.bbc.co.uk/programmes/b006qj9z ,Public Service,,,,,,,,,,,
+500,BBC Radio Four Today,Journalist Radio,504,@MishalHusainBBC,Mishal Husain,http://www.bbc.co.uk/programmes/b006qj9z ,Public Service,,,,,,,,,,,
+500,BBC Radio Four Today,Journalist Radio,505,@bbcnickrobinson,Nick Robinson,http://www.bbc.co.uk/programmes/b006qj9z ,Public Service,,,,,,,,,,,
+600,BBC Question Time,TV,600,@bbcquestiontime,,http://www.bbc.co.uk/programmes/b006t1q9,Public Service,,,,,,,,,,,
+600,BBC Question Time,Journalist TV,601,@daviddimble,David Dimbleby,http://www.bbc.co.uk/programmes/b006t1q10,Public Service,,,,,,,,,,,
+700,BBC World Service,Journalist Radio,700,@bbcworldservice,,http://www.bbc.co.uk/worldserviceradio,Public Service,,,,,,,,,,,
+700,BBC World Service,Journalist Radio,701,@BowenBBC,Jeremy Bowen,http://www.bbc.co.uk/worldserviceradio,Public Service,,,,,,,,,,,BBC Middle East Editor
+700,BBC World Service,Journalist Radio,702,@bbclysedoucet,Lyse Doucet,http://www.bbc.co.uk/worldserviceradio,Public Service,,,,,,,,,,,BBC Chief International Correspondent
+800,"Belfast Telegraph, The",Newspaper,800,@BelTel,,http://www.belfasttelegraph.co.uk,,1,01/01/96,Current,,,,,,,,
+800,"Belfast Telegraph, The",Journalist,801,@GWalker9,Gail Walker,http://www.belfasttelegraph.co.uk,,,,,,,,,,,,Editor
+800,"Belfast Telegraph, The",Journalist,802,@MargaretCan,Margaret Canning,http://www.belfasttelegraph.co.uk,,,,,,,,,,,,Business Editor
+800,"Belfast Telegraph, The",Journalist,803,@LIAMCLARKECJ,Liam Clarke,http://www.belfasttelegraph.co.uk,,,,,,,,,,,,Political Editor
+900,City AM,Newspaper,900,@CityAM,,http://www.cityam.com/,,1,10/13/10,Current,,,,,,,,London City based outlet only - economic
+900,City A.M.,Journalist,901,@TWWelsh,Tom Welsh,http://www.cityam.com/,,,,,,,,,,,,Business Features Editor
+900,City A.M.,Journalist,902,@steve_dinneen,Steve Dinneen,http://www.cityam.com/,,,,,,,,,,,,Lifestyle Editor
+900,City A.M.,Journalist,903,@lynseybarber,Lynsey Barber,http://www.cityam.com/,,,,,,,,,,,,Technology Editor
+900,City A.M.,Journalist,904,@MkSands,Mark Sands,http://www.cityam.com/,,,,,,,,,,,,Political Reporter
+1000,Channel 4 News,TV,1000,@Channel4News,,http://www.channel4.com/news/,,,,,,,,,,,,
+1000,Channel 4 News,Journalist TV,1001,@jonsnowC4,Jon Snow,http://www.channel4.com/news/,,,,,,,,,,,,Presenter
+1000,Channel 4 News,Journalist TV,1002,@krishgm,Krishnan Guru-Murthy,http://www.channel4.com/news/,,,,,,,,,,,,Presenter
+1000,Channel 4 News,Journalist TV,1003,@cathynewman,Cathy Newman,http://www.channel4.com/news/,,,,,,,,,,,,Presenter
+1000,Channel 4 News,Journalist TV,1004,@mattfrei,Matt Frei,http://www.channel4.com/news/,,,,,,,,,,,,Presenter and Europe Editor
+1000,Channel 4 News,Journalist TV,1005,@GaryGibbonBlog,Gary Gibbon,http://www.channel4.com/news/,,,,,,,,,,,,Political Editor
+1000,Channel 4 News,Journalist TV,1006,@lindseyhilsum,Lindsey Hilsum,http://www.channel4.com/news/,,,,,,,,,,,,International Editor
+1000,Channel 4 News,Journalist TV,1007,@JackieLongc4,Jackie Long,http://www.channel4.com/news/,,,,,,,,,,,,Social Affairs Editor
+1000,Channel 4 News,Journalist TV,1008,@alextomo,Alex Thomson,http://www.channel4.com/news/,,,,,,,,,,,,Chief Correspondent
+1100,"Courier, The",Newspaper,1100,@thecourieruk,,https://www.thecourier.co.uk,,,,,,,,,,,,
+1100,"Courier, The",Journalist,1101,@C_SNimmo,Struan Nimmo,https://www.thecourier.co.uk,,,,,,,,,,,,Assistant Editor
+1100,"Courier, The",Journalist,1102,@C_ARichardson,Alan Richardson,https://www.thecourier.co.uk,,,,,,,,,,,,News Editor
+1100,"Courier, The",Journalist,1103,@C_KAndrews,Kieran Andrews,https://www.thecourier.co.uk,,,,,,,,,,,,Political Editor
+1100,"Courier, The",Journalist,1104,@C_RRooney,Richard Rooney,https://www.thecourier.co.uk,,,,,,,,,,,,Online Editor
+1100,"Courier, The",Journalist,1105,@C_RMacCallum,Ross MacCallum,https://www.thecourier.co.uk,,,,,,,,,,,,Night Editor
+1100,"Courier, The",Journalist,1106,@C_SMorkis,Stefan Morkis,https://www.thecourier.co.uk,,,,,,,,,,,,Lead Reporter
+1100,"Courier, The (Dundee)",Newspaper,1107,@courier_dundee,,,,,,,,,,Regional ,,Scotland ,,
+1200,"Daily Express, The",Newspaper,1200,@Daily_Express,,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,
+1200,"Daily Express, The",Journalist,1201,,Paul Baldwin,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,Head of News
+1200,"Daily Express, The",Journalist,1202,@jdickenson1990,James Dickenson,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,Online Sports Editor
+1200,"Daily Express, The",Journalist,1203,@Emily_Fox,Emily Fox,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,Online Editor
+1200,"Daily Express, The",Journalist,1204,@JonAustinjourn1,Jon Austin,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,Science Reporter
+1200,"Daily Express, The",Journalist,1205,@DavidPBMaddox,David Maddox,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,Political Correspondent
+1200,"Daily Express, The",Journalist,1206,@kirstymccormack,Kirsty McCormack,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,Showbiz Reporter
+1200,"Daily Express, The",Journalist,1207,,Tom Parfitt,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,News Reporter
+1200,"Daily Express, The",Journalist,1208,@charlesperrin7,Charles Perrin,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,Sports Reporter
+1200,"Daily Express, The",Journalist,1209,@SnellingD,David Snelling,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,Technology Editor
+1200,"Daily Express, The",Journalist,1210,@felicity_journo,Felicity Thistlethwaite,http://www.express.co.uk/,Richard Desmond,,,,,,,,,,,Digital Lifestyle Editor
+1300,"Daily Mail, The",Newspaper,1300,@DailyMailUK,,,,1,01/01/92,Current,,,,National Tabloid,Daily,Middle-Market Tabloid,,
+1300,"Daily Mail, The",Newspaper,1301,@MailOnline,,http://www.dailymail.co.uk/home/index.html,DMGT,1,01/01/92,Current,,,,National Tabloid,Daily,Middle-Market Tabloid,,
+1300,"Daily Mail, The",Journalist,1302,@IsabelOakeshott,Isabel Oakeshott,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Political Editor at large
+1300,"Daily Mail, The",Journalist,1303,@albrummer,Alex Brummer,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,City Editor
+1300,"Daily Mail, The",Journalist,1304,@Matt_Lawton_DM,Matt Lawton,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Chief Sports Writer
+1300,"Daily Mail, The",Journalist,1305,@crimereporter,Chris Greenwood,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Crime Correspondent
+1300,"Daily Mail, The",Journalist,1306,@RE_DailyMail,Rebecca English,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Royal Correspondent
+1300,"Daily Mail, The",Journalist,1307,,Craig Brown,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Daily Mail, The",Journalist,1308,,Stephen Glover,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Daily Mail, The",Journalist,1309,@dmeffy,Ephraim Hardcastle,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Daily Mail, The",Journalist,1310,,Dominic Lawson,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Daily Mail, The",Journalist,1311,,Quentin Letts,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Daily Mail, The",Journalist,1312,@Littlejohnycmiu,Richard Littlejohn,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Daily Mail, The",Journalist,1313,@MSamuelDT,Martin Samuel,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Daily Mail, The",Journalist,1314,,Tom Utley,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Daily Mail, The",Journalist,1315,@SarahVine,Sarah Vine,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Daily Mail, The",Journalist,1316,@chalkmark,Richard Gray,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Journalist (MailOnline)
+1300,"Daily Mail, The",Journalist,1317,@baishali_adak,Baishali Adak,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Journalist (MailOnline)
+1300,"Daily Mail, The",Journalist,1318,@guyadams,Guy Adams,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Journalist (MailOnline)
+1300,"Daily Mail, The",Journalist,1319,@willyleeadams,William Lee Adams,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Journalist (MailOnline)
+1300,"Daily Mail, The",Journalist,1320,@Sn3haAgrawal,Sneha Agrawal,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Journalist (MailOnline)
+1300,"Daily Mail, The",Journalist,1321,@SarahBridge100,Sarah Bridge,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Journalist (MailOnline)
+1300,"Daily Mail, The",Journalist,1322,@DMDacre,Paul Dacre,http://www.dailymail.co.uk/home/index.html,DMGT,,,,,,,,,,,Editor
+1300,"Mail on Sunday, The and The Mail on Sunday Scotland",Journalist,3101,@DRoseMoS,David Rose,http://www.dailymail.co.uk/mailonsunday/index.html,DMGT,,,,,,,,,,,Deputy News Editor
+1300,"Mail on Sunday, The and The Mail on Sunday Scotland",Journalist,3102,@martinbeckford,Martin Beckford,http://www.dailymail.co.uk/mailonsunday/index.html,DMGT,,,,,,,,,,,Home Affairs Editor
+1300,"Mail on Sunday, The and The Mail on Sunday Scotland",Journalist,3103,@DPJHodges,Dan Hodges,http://www.dailymail.co.uk/mailonsunday/index.html,DMGT,,,,,,,,,,,Political Commentator
+1300,"Mail on Sunday, The and The Mail on Sunday Scotland",Journalist,3104,@neilcraven1,Neil Craven,http://www.dailymail.co.uk/mailonsunday/index.html,DMGT,,,,,,,,,,,Business Reporter
+1300,"Mail on Sunday, The and The Mail on Sunday Scotland",Journalist,3105,@OllieHolt22,Oliver Holt,http://www.dailymail.co.uk/mailonsunday/index.html,DMGT,,,,,,,,,,,Chief Sports Writer
+1300,"Mail on Sunday, The and The Mail on Sunday Scotland",Journalist,3106,@toryboypierce,Andrew Pierce,http://www.dailymail.co.uk/mailonsunday/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Mail on Sunday, The and The Mail on Sunday Scotland",Journalist,3107,,Peter Hitchens,http://www.dailymail.co.uk/mailonsunday/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Mail on Sunday, The and The Mail on Sunday Scotland",Journalist,3108,,Rachel Johnson,http://www.dailymail.co.uk/mailonsunday/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Mail on Sunday, The and The Mail on Sunday Scotland",Journalist,3109,,Liz Jones,http://www.dailymail.co.uk/mailonsunday/index.html,DMGT,,,,,,,,,,,Columnist
+1300,"Scottish Daily Mail, The",Newspaper,4100,@MailOnline,,http://www.dailymail.co.uk/travel/destinationshub/scotland.html,DMGT,,,,,,,National – Mid Market ,,Scotland ,,
+1300,"Scottish Daily Mail, The",Journalist,4101,@AlanRoden,Alan Roden,http://www.dailymail.co.uk/travel/destinationshub/scotland.html,DMGT,,,,,,,,,,,Political Editor
+1300,"Scottish Daily Mail, The",Journalist,4102,@GrahamGGrant,Graham Grant,http://www.dailymail.co.uk/travel/destinationshub/scotland.html,DMGT,,,,,,,,,,,Home Affairs Editor and Columnist
+1300,"Scottish Daily Mail, The",Journalist,4103,@emmacowing,Emma Cowing,http://www.dailymail.co.uk/travel/destinationshub/scotland.html,DMGT,,,,,,,,,,,Features Editor
+1300,"Scottish Daily Mail, The",Journalist,4104,@jonnythegreek,John Greechan,http://www.dailymail.co.uk/travel/destinationshub/scotland.html,DMGT,,,,,,,,,,,Chief Sports Writer
+1300,"Scottish Daily Mail, The",Journalist,4105,@chrisdeerin,Chris Deerin,http://www.dailymail.co.uk/travel/destinationshub/scotland.html,DMGT,,,,,,,,,,,Leading Columnist
+1300,"Scottish Daily Mail, The",Journalist,4106,@Gareth_Rose,Gareth Rose,http://www.dailymail.co.uk/travel/destinationshub/scotland.html,DMGT,,,,,,,,,,,Political Reporter
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Newspaper,1400,@DailyMirror,,http://www.mirror.co.uk/,Trinity Mirror plc,1,05/29/95,Current,1,07/01/92,Current,National Tabloid,Sunday Edition,Tabloid,,
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1401,@Kevin_Maguire,Kevin Maguire,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Associate Editor
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1402,@Grahamhiscott,Graham Hiscott,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Business Editor
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1403,@JBeattieMirror,Jason Beattie,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Political Editor
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1404,@andrewgregory,Andrew Gregory,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Health Editor
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1406,@defencechris,Chris Hughes,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Defence-Security Editor
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1407,@martinfricker,Martin Fricker,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Senior Reporter
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1408,@rjmyers,Russell Myers,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Senior Reporter
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1409,@thebedfordfox,Dave Yates,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Reporter
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1410,,Sam Adams,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Reporter
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1411,@kayeadams,Kaye Adams,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Columnist (Saturday Mirror)
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1412,@Winnosa,Winnie Agbonlahor,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Journalist (Saturday Mirror)
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1413,@nicola_agius,Nicola Agius,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,TV Reporter (Mirror Online)
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1414,@QueenVicMirror,Victoria Murphy,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Royal Correspondent
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1415,@Bondy81,Anthony Bond,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Reporter
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1416,@Vikki_Mirror,Vikki White,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,"Features Writer, also in Sunday People and Mirror"
+1400,"Mirror, The (Daily Mirror and The Sunday Mirror and Scottish Daily Mirror)",Journalist,1417,@MirrorTom,Tom Bryant,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Head of Showbiz
+1400,"Scottish Sunday Mirror, The",Newspaper,4500,@TheSundayMirror,,http://www.mirror.co.uk,Trinity Mirror plc,,,,,,,National Tabloid Scotland,Scotland Edition,Scotland Edition,,
+1400,Sunday Mirror,Newspaper,5400,@TheSundayMirror,,http://www.mirror.co.uk/,Trinity Mirror plc,,,,1,07/01/92,Current,National Tabloid,Sunday,Tabloid,,
+1400,Sunday Mirror,Journalist,5401,@storyforgrace,Grace Macaskill,http://www.mirror.co.uk/,Trinity Mirror plc,,,,,,,,,,,Northern Features Writer
+1500,"Daily Record, The",Newspaper,1500,@Daily_Record,,http://www.dailyrecord.co.uk,Trinity Mirror plc,1,01/01/94,Current,1,01/01/94,Current,National Tabloid Scotland,,Scotland ,,
+1500,"Daily Record, The",Journalist,1501,@iainpope73,Iain Pope,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,Head of Digital News
+1500,"Daily Record, The",Journalist,1502,@Torcuil,Torcuil Crichton,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,Westminster Editor
+1500,"Daily Record, The",Journalist,1503,@davieclegg,David Clegg,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,Political Editor
+1500,"Daily Record, The",Journalist,1504,@DarrenBSCooney,Darren Cooney,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,Online Sports Editor
+1500,"Daily Record, The",Journalist,1505,@andydphilip,Andy Philip,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,Political Reporter
+1500,"Daily Record, The",Journalist,1506,@pgohare,Paul O'Hare,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,Crime Correspondent
+1500,"Daily Record, The",Journalist,1507,@dmccarthyDR,David McCarthy,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,Sports Writer
+1500,Sunday Mail,Newspaper,5300,@Sunday_Mail,,http://www.dailyrecord.co.uk,Trinity Mirror plc,1,01/01/94,Current,,,,National Tabloid Scotland,,Scotland ,,Scottish Political Editor
+1500,Sunday Mail,Journalist,5301,@brendanjmcginty,Brendan McGinty,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,News Editor
+1500,Sunday Mail,Journalist,5302,@MarkAitken1,Mark Aitken,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,Political Editor
+1500,Sunday Mail,Journalist,5303,@Normansilvester,Norman Silvester,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,Crime Correpondent
+1500,Sunday Mail,Journalist,5304,@ladymcbeth2,Marion Scott,http://www.dailyrecord.co.uk,Trinity Mirror plc,,,,,,,,,,,reporter
+1600,Daily Star of Scotland and Daily Star Sunday,Newspaper,1600,@Daily_Star,,http://www.dailystar.co.uk/,Richard Desmond,1,12/01/00,Current,,,,National Tabloid,Sunday,Tabloid,,
+1600,Daily Star of Scotland and Daily Star Sunday,Journalist,1601,@trawle91,Tom Rawle,http://www.dailystar.co.uk/,Richard Desmond,,,,,,,,,,,Assistant News Editor
+1600,Daily Star of Scotland and Daily Star Sunday,Journalist,1602,@NadzMendoza,Nadia Mendoza,http://www.dailystar.co.uk/,Richard Desmond,,,,,,,,,,,Digital Showbiz Editor
+1600,Daily Star of Scotland and Daily Star Sunday,Journalist,1603,@LauraMitchell15,Laura Mitchell,http://www.dailystar.co.uk/,Richard Desmond,,,,,,,,,,,Digital Travel & Lifestyle Editor
+1600,Daily Star of Scotland and Daily Star Sunday,Journalist,1604,@jackhardwick93,Jack Hardwick,http://www.dailystar.co.uk/,Richard Desmond,,,,,,,,,,,Online Showbiz Reporter
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Newspaper,1800,@Telegraph,,http://www.telegraph.co.uk/,Telegraph Media Group,1,10/30/00,Current,1,10/01/00,Current,National Broadsheet,Daily,Broadsheet/Former Broadsheet,,
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Newspaper,1801,@TelegraphNews,,,,,,,,,,,,,,
+1800,"Daily Telegraph, The (Scottish edition) ",Newspaper,1802,,,,,,,,,,,National Broadsheet Scotland,,Scotland ,,
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1803,@JeremyWarnerUK,Jeremy Warner,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Associate Editor and Economics Columnist
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1804,@paul_kendall,Paul Kendall,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Associate Editor - Culture
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1805,@jameskirkup,James Kirkup,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Executive Politics Editor
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1806,@simon_telegraph,Simon Johnson,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Scottish Political Editor
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1807,@christopherhope,Christopher Hope,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Chief Political Correspondent
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1808,@davidblairdt,David Blair,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Chief Foreign Correspondent
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1809,@John_Bingham,John Bingham,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Social and religious Affairs Editor
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1810,@_PaulHayward,Paul Hayward,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Chief Sports Writer
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1811,@evansma,Martin Evans,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Crime Correspondent
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1812,@NickSquires1,Nick Squires,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Europe Correspondent
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1813,@Simmoa,Aislinn Laing,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Africa Correspondent
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1814,@philipsherwell,Philip Sherwell,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Asia Editor
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1815,@RichardJSpencer,Richard Spencer,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Middle East Editor
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1816,@emilygosden,Emily Gosden,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Energy Editor
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1817,@WhiteheadTom,Tom Whitehead,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,Security Editor
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1818,@barneyhenderson,Barney Henderson,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,World News Editor
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,1819,,Simon Heffer,http://www.telegraph.co.uk/,Telegraph Media Group,,,,,,,,,,,"Columnist and high profile/frequent poster of articles, according to Journalisted, but no twitter account"
+1800,"Sunday Telegraph, The",Newspaper,5700,,,,,1,11/05/00,Current,1,10/01/00,Current,National Broadsheet,Sunday,Broadsheet/Former Broadsheet,,
+1800,"Daily Telegraph, The, The Sunday Telegraph and The Sunday Telegraph Scotland",Journalist,5701,@colinfreeman99,Colin Freeman,http://www.telegraph.co.uk/ AND http://www.telegraph.co.uk/scotland,Telegraph Media Group,,,,,,,,,,,Chieft Correspondent
+1800,"Sunday Telegraph Scotland, The",Newspaper,5702,,,,,,,,,,,National Broadsheet Scotland,Scotland Edition,Scotland Edition,,
+1900,"Economist, The",Newspaper,1900,@TheEconomist,,http://www.economist.com/,The Economist Group,,,,,,,,,,,
+1900,"Economist, The",Journalist,1901,@kncukier,Kenneth Cukier,http://www.economist.com/,The Economist Group,,,,,,,,,,,Data Editor
+1900,"Economist, The",Journalist,1902,@EconoScribe,Ludwig Siegele,http://www.economist.com/,The Economist Group,,,,,,,,,,,Technology Editor
+1900,"Economist, The",Journalist,1903,@mattsteinglass,Matt Steinglass,http://www.economist.com/,The Economist Group,,,,,,,,,,,Europe Editor
+1900,"Economist, The",Journalist,1904,@rosenthal_jon,Jonathan Rosenthal,http://www.economist.com/,The Economist Group,,,,,,,,,,,Africa Editor
+1900,"Economist, The",Journalist,1905,@dlknowles,Daniel Knowles,http://www.economist.com/,The Economist Group,,,,,,,,,,,Africa Correspondent
+1900,"Economist, The",Journalist,1906,@RosieBlau,Rosie Blau,http://www.economist.com/,The Economist Group,,,,,,,,,,,China Correspondent
+1900,"Economist, The",Journalist,1907,@timjudah1,Tim Judah,http://www.economist.com/,The Economist Group,,,,,,,,,,,Balkans Correspondent
+1900,"Economist, The",Journalist,1908,@NoahSneider,Noah Sneider,http://www.economist.com/,The Economist Group,,,,,,,,,,,Moscow Correspondent
+1900,"Economist, The",Journalist,1909,@gilestremlett,Giles Tremlett,http://www.economist.com/,The Economist Group,,,,,,,,,,,Madrid Correspondent
+1900,"Economist, The",Journalist,1910,@john_hooper,John Hooper,http://www.economist.com/,The Economist Group,,,,,,,,,,,Italy & Vatican Correspondetn
+1900,"Economist, The",Journalist,1911,@Ananyo,Ananyo Bhattacharya,http://www.economist.com/,The Economist Group,,,,,,,,,,,Science Correspondent
+1900,"Economist, The",Journalist,1912,@michaelreid52,Michael Reid,http://www.economist.com/,The Economist Group,,,,,,,,,,,Latin American Correspondent
+1900,"Economist, The",Journalist,1913,@JeremyCliffe,Jeremy Cliffe,http://www.economist.com/,The Economist Group,,,,,,,,,,,Columnist
+2000,Aberdeen Evening Express,Newspaper,2000,@EveningExpress,,https://www.eveningexpress.co.uk,D. C. Thomson & Co. Ltd,1,12-Jan-98,Current,,,,Local ,,Scotland Local,Aberdeen,
+2100,Evening Times,Newspaper,2100,@TheEveningTimes,,http://www.eveningtimes.co.uk,Newsquest Media Group,1,07/10/00,Current,1,02/13/02,Current,Local ,,Scotland Local,,
+2200,Financial Times,Newspaper,2200,@FT,,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",1,01/02/82,Current,1,01/02/98,Current,National Broadsheet,Daily,Broadsheet/Former Broadsheet,,More than 1 Twitter
+2200,"Financial Times, The",Newspaper,2201,@FinancialTimes,,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",1,01/02/82,Current,1,01/02/98,Current,National Broadsheet,Daily,Broadsheet/Former Broadsheet,,
+2200,"Financial Times, The",Journalist,2202,@lionelbarber,Lionel Barber,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,Editor
+2200,"Financial Times, The",Journalist,2203,@ChrisGiles_,Chris Giles,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,Economics Editor
+2200,"Financial Times, The",Journalist,2204,@GeorgeWParker,George Parker,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,Political Editor
+2200,"Financial Times, The",Journalist,2205,@SpiegelPeter,Peter Spiegel,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,News Editor Financial Times
+2200,"Financial Times, The",Journalist,2206,@citizenlaura,Laura Miller,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,News Editor Financial Times Adviser
+2200,"Financial Times, The",Journalist,2207,@ravmattu,Ravi Mattu,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,Technology Editor
+2200,"Financial Times, The",Journalist,2208,@gideonrachman,Gideon Rachman,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,Chief Foreign Affairs Commentator
+2200,"Financial Times, The",Journalist,2209,@sarahoconnor_,Sarah O'Connor,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,Employment Correspondent
+2200,"Financial Times, The",Journalist,2210,@PickardJE,Jim Pickard,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,Chief Political Correspondent
+2200,"Financial Times, The",Journalist,2211,@JananGanesh,Janan Ganesh,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,Political Columnist
+2200,"Financial Times, The",Journalist,2212,@lucykellaway,Lucy Kellaway,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,Columnist
+2200,"Financial Times, The",Journalist,2213,@andrewtghill,Andrew Hill,http://www.ft.com/home/uk,"The Financial Times Group, Nikkei Inc.",,,,,,,,,,,Management Columnist
+2300,"Guardian, The",Newspaper,2300,@guardian,,http://www.theguardian.com/uk,Guardian Media Group,1,07/14/84,Current,1,01/01/98,Current,National Berliner,Daily,Broadsheet/Former Broadsheet,,
+2300,"Guardian, The",Journalist,2301,@NilsPratley,Nils Pratley,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Financial Editor
+2300,"Guardian, The",Journalist,2302,@patrickwintour,Patrick Wintour,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Diplomatic Editor
+2300,"Guardian, The",Journalist,2303,@julianborger,Julian Borger,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,World Affair's Editor
+2300,"Guardian, The",Journalist,2304,@nickhopkinsnews,Nick Hopkins,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Head of Investigations
+2300,"Guardian, The",Journalist,2305,@alantravis40,Alan Travis,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Home Affairs Editor
+2300,"Guardian, The",Journalist,2306,@JonathanHaynes,Jonathan Haynes,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Technology Editor
+2300,"Guardian, The",Journalist,2307,@martinkettle,Martin Kettle,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Political Correspondent
+2300,"Guardian, The",Journalist,2308,@marksweney,Mark Sweney,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Media Business Correspondent
+2300,"Guardian, The",Journalist,2309,@hannahdev,Hannah Devlin,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Science Correspondent
+2300,"Guardian, The",Journalist,2310,@pollytoynbee,Polly Toynbee,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Columnist
+2300,"Guardian, The",Journalist,2311,@OwenJones84,Owen Jones,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Columnist
+2300,"Guardian, The",Journalist,2312,@Freedland,Jonathan Freedland,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Columnist
+2300,"Guardian, The",Journalist,2313,@MichaelWhite,Michael White,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Columnist
+2300,"Guardian, The",Journalist,2314,@ameliagentleman,Amelia Gentleman,http://www.theguardian.com/uk,Guardian Media Group,,,,,,,,,,,Reporter
+2400,"Herald, The (Glasgow)",Newspaper,2400,@heraldscotland,,http://www.heraldscotland.com/,Newsquest Media Group,1,01/01/92,Current,1,01/01/98,Current,National Broadsheet Scotland,,Scotland ,,
+2400,"Herald, The (Glasgow)",Journalist,2401,@Herald_Editor,Magnus Llewellin,http://www.heraldscotland.com/,Newsquest Media Group,,,,,,,,,,,Editor in Chief
+2400,"Herald, The (Glasgow)",Journalist,2402,@ianmcconnellHT,Ian McConnell,http://www.heraldscotland.com/,Newsquest Media Group,,,,,,,,,,,Business Editor
+2400,"Herald, The (Glasgow)",Journalist,2403,@GardhamHT,Magnus Gardham,http://www.heraldscotland.com/,Newsquest Media Group,,,,,,,,,,,Political Editor
+2400,"Herald, The (Glasgow)",Journalist,2404,@LeaskyHT,David Leask,http://www.heraldscotland.com/,Newsquest Media Group,,,,,,,,,,,Chief Reporter
+2400,"Herald, The (Glasgow)",Journalist,2405,@DanSandersonHT,Dan Sanderson,http://www.heraldscotland.com/,Newsquest Media Group,,,,,,,,,,,Political Correspondent
+2400,"Herald, The (Glasgow)",Journalist,2406,@iainmacwhirter,Iain Macwhirter,http://www.heraldscotland.com/,Newsquest Media Group,,,,,,,,,,,"Columnist, also for Sunday Herald"
+2500,i,Newspaper,2500,@theipaper,,https://inews.co.uk/,Johnston Press,1,10/28/10,Current,,,,,,,,
+2500,i,Journalist,2501,@olyduff,Oly Duff,https://inews.co.uk/,Johnston Press,,,,,,,,,,,Editor
+2500,i,Journalist,2502,@NigelpMorris,Nigel Morris,https://inews.co.uk/,Johnston Press,,,,,,,,,,,Political Editor
+2500,i,Journalist,2503,@adamsherwin10,Adam Sherwin,https://inews.co.uk/,Johnston Press,,,,,,,,,,,Arts and Media Correspondent
+2600,"Independent, The (London)",Newspaper,2600,@Independent,,http://www.independent.co.uk/,Independent News and Media,1,09/19/88,Current,1,08/01/92,Current,National Compact,Daily,Broadsheet/Former Broadsheet,,same newspaper
+2600,"Independent, The (Barnsley)",Newspaper,2601,@Independent,,,,,,,,,,Local,,England Local,Barnsley,same newspaper
+2600,"Independent, The (Scotland)",Newspaper,2602,@Independent,,,,,,,,,,National Broadsheet Scotland,,Scotland ,,same newspaper
+2600,"Independent, The",Journalist,2603,@BenChu_,Ben Chu,http://www.independent.co.uk/,Independent News and Media,,,,,,,,,,,Economics Editor
+2600,"Independent, The",Journalist,2604,@ianherbs,Ian Herbert,http://www.independent.co.uk/,Independent News and Media,,,,,,,,,,,Chief Sports Writer
+2600,"Independent, The",Journalist,2605,@MarkOgden_,Mark Ogden,http://www.independent.co.uk/,Independent News and Media,,,,,,,,,,,Chief Football Correspondent
+2600,"Independent, The",Journalist,2606,@janemerrick23,Jane Merrick,http://www.independent.co.uk/,Independent News and Media,,,,,,,,,,,Columnist
+2600,"Independent, The",Journalist,2607,@JohnRentoul,John Rentoul,http://www.independent.co.uk/,Independent News and Media,,,,,,,,,,,Chief Political Commentator
+2600,"Independent, The",Journalist,2608,@oliver_wright,Oliver Wright,http://www.independent.co.uk/,Independent News and Media,,,,,,,,,,,Political Editor
+2600,"Independent on Sunday, The",Newspaper,2610,@Independent,,,,1,01/28/90,Current,1,08/01/92,Current,National Compact,Sunday,Broadsheet/Former Broadsheet,,same newspaper
+2700,"Irish News, The",Newspaper,2700,@irish_news,,http://www.irishnews.com,Fitzpatrick Family,1,07/02/01,Current,,,,,,,,
+2800,ITV News,TV,2800,@itvnews,,http://www.itv.com/news/,,,,,,,,,,,,
+2800,ITV News,Journalist TV,2801,@Peston,Robert Peston,http://www.itv.com/news/,,,,,,,,,,,,Political Editor
+2800,ITV News,Journalist TV,2802,@alokjha,Alok Jha,http://www.itv.com/news/,,,,,,,,,,,,Science Correspondent
+2900,Leading Britain's Conversation,Radio,2900,@LBC,,http://www.lbc.co.uk,Global Radio,,,,,,,,,,,
+3000,London Evening Standard,Newspaper,3000,@standardnews,,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,
+3000,London Evening Standard,Journalist,3001,@JoeMurphyLondon,Joe Murphy,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,Political Editor
+3000,London Evening Standard,Journalist,3002,@nicholascecil,Nicholas Cecil,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,Deputy Political Editor
+3000,London Evening Standard,Journalist,3003,@LucyH_J,Lucy Hunter Johnston,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,Features Editor
+3000,London Evening Standard,Journalist,3004,@martinbentham,Martin Bentham,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,Home Affairs Editor
+3000,London Evening Standard,Journalist,3005,@_jdavenport,Justin Davenport,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,Crime Editor
+3000,London Evening Standard,Journalist,3006,@JoeWatts_,Joe Watts,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,Political Correspondent
+3000,London Evening Standard,Journalist,3007,@robindepeyer,Robin de Peyer,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,Assistant Digital News Editor
+3000,London Evening Standard,Journalist,3008,@cohenstandard,David Cohen,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,Campaigns Editor and Chief Feature Writer
+3000,London Evening Standard,Journalist,3009,@kirkkorner,Tristan Kirk,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,Court reporter
+3000,London Evening Standard,Journalist,3010,@Alistair_Foster,Alistair Foster,http://www.standard.co.uk/,Lebedev and DMGT,,,,,,,,,,,Showbusiness Correspondent and West End columnist
+3300,"Morning Star, The",Newspaper,3300,@M_Star_Online,,https://www.morningstaronline.co.uk,People's Press Printing Society,,,,,,,,,,,
+3400,"National, The",Newspaper,3400,@ScotNational,,http://www.thenational.scot/,Newsquest Media Group,,,,,,,,,,,
+3500,New Scientist,Newspaper,3500,@newscientist,,https://www.newscientist.com,Reed Business Information Ltd,,,,,,,,,,,Scientific Magazine
+3600,"Observer, The",Newspaper,3600,@ObsMagazine,,http://www.theguardian.com/observer,Guardian Media Group,,,,,,,,,,,
+3600,"Observer, The",Journalist,3601,@tobyhelm,Toby Helm,http://www.theguardian.com/observer,Guardian Media Group,,,,,,,,,,,Political Editor
+3600,"Observer, The",Journalist,3602,@andrewrawnsley,Andrew Rawnsley,http://www.theguardian.com/observer,Guardian Media Group,,,,,,,,,,,Chief Political Commentator
+3800,Private Eye,Newspaper,3800,@PrivateEyeNews,,http://www.private-eye.co.uk/,Pressdram Ltd,,,,,,,,,,,Political Magazine
+3900,"Scotsman, The ",Newspaper,3901,@TheScotsman,,http://www.scotsman.com/,Johnston Press,1,07/21/04,Current,1,01/01/98,Current,National Broadsheet Scotland,,Scotland ,,staff listed under the Scotsman
+3900,Scotland on Sunday ,Newspaper,3902,@scotonsunday,,http://www.scotsman.com/,Johnston Press,1,05/14/06,Current,1,01/01/98,Current,National Broadsheet Scotland,,Scotland ,,
+3900,"Scotsman, The ",Journalist,3903,@scottjamesreid,Scott Reid,http://www.scotsman.com/,Johnston Press,,,,,,,,,,,Deputy Business Editor and Business/Finance Columnist
+3900,"Scotsman, The ",Journalist,3904,@JanetChristie2,Janet Christie,http://www.scotsman.com/,Johnston Press,,,,,,,,,,,Columnist and Travel Editor (Scotland on Sunday)
+3900,"Scotsman, The ",Journalist,3905,@chris_scotsman,Chris Marshall,http://www.scotsman.com/,Johnston Press,,,,,,,,,,,Home Affairs Correspondent
+3900,"Scotsman, The ",Journalist,3906,@TomPeterkin,Tom Peterkin,http://www.scotsman.com/,Johnston Press,,,,,,,,,,,Political Editor
+3900,"Scotsman, The ",Journalist,3907,@ScottMacnab,Scott MacNab,http://www.scotsman.com/,Johnston Press,,,,,,,,,,,Political Correspondent
+3900,"Scotsman, The ",Journalist,3910,@scotsmanIanS,Ian Stewart,http://www.scotsman.com/,Johnston Press,,,,,,,,,,,Editor
+4300,"Scottish Sun, The",Newspaper,4300,@ScottishSun,,http://www.thescottishsun.co.uk,News Corp,,,,,,,National Tabloid Scotland,,Scotland ,,
+4300,"Scottish Sun, The",Journalist,4301,@simonhouston68,Simon Houston,http://www.thescottishsun.co.uk,News Corp,,,,,,,,,,,Content Editor
+4300,"Scottish Sun, The",Journalist,4302,@Hannahnaman,Roger Hannah,http://www.thescottishsun.co.uk,News Corp,,,,,,,,,,,Sports Editor
+4300,"Scottish Sun, The",Journalist,4303,@MBendoris,Matt Bendoris,http://www.thescottishsun.co.uk,News Corp,,,,,,,,,,,Chief Features Writer
+4300,"Scottish Sun, The",Journalist,4304,@KennyMcAlpine,Kenny McAlpine,http://www.thescottishsun.co.uk,News Corp,,,,,,,,,,,Reporter
+4300,"Scottish Sun, The",Journalist,4305,@Cheryl84Smith,Cheryl Smith,http://www.thescottishsun.co.uk,News Corp,,,,,,,,,,,Reporter
+4400,"Scottish Sunday Express, The",Newspaper,4400,@ScotExpress,,http://www.scottishsundayexpress.co.uk,Richard Desmond,,,,,,,National – Mid Market ,Scotland Edition,Scotland Edition,,
+4600,Sky,TV,4600,@SkyNews,,http://news.sky.com/,News Corp,,,,,,,,,,,
+4600,Sky,Journalist TV,4601,@adamboultonSKY,Adam Boulton,http://news.sky.com/,,,,,,,,,,,,"Presenter, Political Columnist Sunday Times"
+4600,Sky,Journalist TV,4602,@skynewsniall,Niall Paterson,http://news.sky.com/,,,,,,,,,,,,Presenter and Correspondent
+4600,Sky,Journalist TV,4603,@EdConwaySky,Edmund Conway,http://news.sky.com/,,,,,,,,,,,,Economics Editor
+4600,Sky,Journalist TV,4604,@faisalislam,Faisal Islam,http://news.sky.com/,,,,,,,,,,,,Political Editor
+4600,Sky,Journalist TV,4605,@BethRigby,Beth Rigby,http://news.sky.com/,,,,,,,,,,,,Senior Political Correspondent
+4600,Sky,Journalist TV,4606,@AliBunkallSKY,Alistair Bunkall,http://news.sky.com/,,,,,,,,,,,,Defence Correspondent
+4600,Sky,Journalist TV,4607,@skymartinbrunt,Martin Brunt,http://news.sky.com/,,,,,,,,,,,,Crime Correspondent
+4600,Sky,Journalist TV,4608,@Stone_SkyNews,Mark Stone,http://news.sky.com/,,,,,,,,,,,,Europe Correspondent
+4600,Sky,Journalist TV,4609,@skymarkwhite,Mark White,http://news.sky.com/,,,,,,,,,,,,Home Affairs Correspondent
+4600,Sky,Journalist TV,4610,@RaynerSkyNews,Tom Rayner,http://news.sky.com/,,,,,,,,,,,,Foreign Correspondent
+4700,"Spectator, The",Newspaper,4700,@spectator,,http://www.spectator.co.uk/,David and Frederick Barcla,,,,,,,,,,,Political Magazine
+4700,"Spectator, The",Journalist,4701,@FraserNelson,Fraser Nelson,http://www.spectator.co.uk/,David and Frederick Barcla,,,,,,,,,,,Editor
+4700,"Spectator, The",Journalist,4702,@IsabelHardman,Isabel Hardman,http://www.spectator.co.uk/,David and Frederick Barcla,,,,,,,,,,,Assistant Editor
+4700,"Spectator, The",Journalist,4703,@alexmassie,Alex Massie,http://www.spectator.co.uk/,David and Frederick Barcla,,,,,,,,,,,Scotland Editor
+4700,"Spectator, The",Journalist,4704,@JGForsyth,James Forsyth,http://www.spectator.co.uk/,David and Frederick Barcla,,,,,,,,,,,Political Editor
+4700,"Spectator, The",Journalist,4705,@goodenoughtom,Tom Goodenough,http://www.spectator.co.uk/,David and Frederick Barcla,,,,,,,,,,,Online News Editor
+4800,STV News,TV,4800,@STVNews,,http://stv.tv/news,,,,,,,,,,,,
+4800,STV News,Journalist TV,4801,@mattjroper,Matt Roper,http://stv.tv/news,,,,,,,,,,,,Digital Editor
+4800,STV News,Journalist TV,4802,@STVColin,Colin Mackay,http://stv.tv/news,,,,,,,,,,,,Holyrood Editor
+4800,STV News,Journalist TV,4803,@AidanKerrPol,Aidan Kerr,http://stv.tv/news,,,,,,,,,,,,Politics Reporter
+4800,STV News,Journalist TV,4804,@TyroneSTV,Tyrone Smith,http://stv.tv/news,,,,,,,,,,,,Sports Reporter
+4900,"Sun, The",Newspaper,4900,@TheSun,,http://www.thesun.co.uk/sol/homepage/,News Corp,1,12/31/99,Current,1,01/01/96,Current,National Tabloid,Daily,Tabloid,,
+4900,"Sun, The",Journalist,4901,@tnewtondunn,Tom Newton Dunn,http://www.thesun.co.uk/sol/homepage/,News Corp,,,,,,,,,,,Politcal Editor
+4900,"Sun, The",Journalist,4902,@craigawoodhouse,Craig Woodhouse,http://www.thesun.co.uk/sol/homepage/,News Corp,,,,,,,,,,,Chief Political Correspondent
+4900,"Sun, The",Journalist,4903,@MrHarryCole,Harry Cole,http://www.thesun.co.uk/sol/homepage/,News Corp,,,,,,,,,,,Westminster Correspondent
+4900,"Sun, The",Journalist,4904,@DavidWilletts3,David Willets,http://www.thesun.co.uk/sol/homepage/,News Corp,,,,,,,,,,,Defence Editor
+4900,"Sun, The",Journalist,4905,@sarah_barns,Sarah Barns,http://www.thesun.co.uk/sol/homepage/,News Corp,,,,,,,,,,,Senior Digital Features Writer
+4900,"Sun, The",Journalist,4906,@Kathryn_Cain,Kathryn Cain,http://www.thesun.co.uk/sol/homepage/,News Corp,,,,,,,,,,,Digital News Journalist
+4900,"Sun, The",Journalist,4907,@realRobertFisk,Robert Fisk,http://www.thesun.co.uk/sol/homepage/,News Corp,,,,,,,,,,,Political Columnist
+5000,"Sun on Sunday, The",Newspaper,5000,@TheSunOnSunday,,http://www.thesun.co.uk/sol/homepage/,News Corp,,,,,,,National Tabloid,Sunday,Tabloid,,
+5000,"Sun on Sunday, The",Journalist,5001,@DavidWooding,David Wooding,http://www.thesun.co.uk/sol/homepage/,News Corp,,,,,,,,,,,Political Editor
+5100,Sunday Express,Newspaper,5100,@sundayexpress1,,http://www.express.co.uk/news/sunday,Richard Desmond,1,01/01/99,Current,,,,National Tabloid,Sunday,Middle-Market Tabloid,,
+5100,Sunday Express,Journalist,5101,,James Murray,http://www.express.co.uk/news/sunday,Richard Desmond,,,,,,,,,,,Investigations Editor
+5100,Sunday Express,Journalist,5102,@AmyPacker,Amy Packer,http://www.express.co.uk/news/sunday,Richard Desmond,,,,,,,,,,,Features Editor
+5100,Sunday Express,Journalist,5103,@FinanceHog,Geoff Ho,http://www.express.co.uk/news/sunday,Richard Desmond,,,,,,,,,,,City Editor
+5100,Sunday Express,Journalist,5104,@lucyjohnston439,Lucy Johnston,http://www.express.co.uk/news/sunday,Richard Desmond,,,,,,,,,,,Health Editor
+5100,Sunday Express,Journalist,5105,@CamillaTominey,Camilla Tominey,http://www.express.co.uk/news/sunday,Richard Desmond,,,,,,,,,,,Royal Editor
+5100,Sunday Express,Journalist,5106,,Scott Wilson,http://www.express.co.uk/news/sunday,Richard Desmond,,,,,,,,,,,Sports Editor
+5100,Sunday Express,Journalist,5107,@Clairywoowoo,Clair Woodward,http://www.express.co.uk/news/sunday,Richard Desmond,,,,,,,,,,,Arts & Entertainment Editor
+5200,Sunday Herald ,Newspaper,5200,@newsundayherald,,http://www.heraldscotland.com/,Newsquest Media Group,1,02/07/99,Current,1,01/01/98,Current,National Broadsheet Scotland,,Scotland ,,
+5200,Sunday Herald,Journalist,5201,@HTScotPol,Tom Gordon,http://www.heraldscotland.com/,Newsquest Media Group,,,,,,,,,,,
+5500,Sunday People,Newspaper,5500,@thesundaypeople,,http://www.mirror.co.uk/all-about/sunday-people,Trinity Mirror plc,,,,,,,,,,,
+5500,Sunday People,Journalist,5501,@dom_herbert,Dominic Herbert,http://www.mirror.co.uk/all-about/sunday-people,Trinity Mirror plc,,,,,,,,,,,News Editor
+5500,Sunday People,Journalist,5502,@NicholasOwens,Nick Owens,http://www.mirror.co.uk/all-about/sunday-people,Trinity Mirror plc,,,,,,,,,,,Head of News
+5500,Sunday People,Journalist,5503,@Nigel Nelson,Nigel Nelson,http://www.mirror.co.uk/all-about/sunday-people,Trinity Mirror plc,,,,,,,,,,,Political Commentator
+5500,Sunday People,Journalist,5504,@mudiek,Keir Mudie,http://www.mirror.co.uk/all-about/sunday-people,Trinity Mirror plc,,,,,,,,,,,Social Affairs Correspondent
+5500,Sunday People,Journalist,5505,@Neil_Moxley,Neil Moxley,http://www.mirror.co.uk/all-about/sunday-people,Trinity Mirror plc,,,,,,,,,,,Chief Sports Writer
+5500,Sunday People,Journalist,5506,@AndyDunn_SM,Andy Dunn,http://www.mirror.co.uk/all-about/sunday-people,Trinity Mirror plc,,,,,,,,,,,Sports Writer
+5500,Sunday People,Journalist,5507,@Nick_Dorman,Nick Dorman,http://www.mirror.co.uk/all-about/sunday-people,Trinity Mirror plc,,,,,,,,,,,Crime Reporter
+5500,Sunday People,Journalist,5508,@NadaFarhoud,Nada Farhoud,http://www.mirror.co.uk/all-about/sunday-people,Trinity Mirror plc,,,,,,,,,,,Features Editor
+5500,Sunday People,Journalist,5509,@geraldine_mck,Geraldine McKelvie,http://www.mirror.co.uk/all-about/sunday-people,Trinity Mirror plc,,,,,,,,,,,Features Writer
+5600,"Sunday Post, The",Newspaper,5600,@Sunday_Post,,https://www.sundaypost.com,D. C. Thomson & Co. Ltd,,,,,,,National Tabloid Scotland,,Scotland ,,
+5600,"Sunday Post, The",Journalist,5601,@andrewpicken1,Andew Picken,https://www.sundaypost.com,D. C. Thomson & Co. Ltd,,,,,,,,,,,Political Editor
+5800,"Sunday Times, The",Newspaper,5800,@thesundaytimes,,http://www.thetimes.co.uk/,News Corp,1,07/01/85,Current,1,07/01/85,Current,National Broadsheet,Sunday,Broadsheet/Former Broadsheet,,
+5800,"Sunday Times, The",Journalist,5801,@ChandrePrince,Chandre Prince,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,National News Editor
+5800,"Sunday Times, The",Journalist,5802,@dsmitheconomics,David Smith,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Economics Editor
+5800,"Sunday Times, The",Journalist,5803,@ShippersUnbound,Tim Shipman,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Political Editor
+5800,"Sunday Times, The",Journalist,5804,@STJamesl,James Lyons,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Deputy Political Editor
+5800,"Sunday Times, The",Journalist,5806,@SianGriffiths6,Sian Griffiths,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Education Editor
+5800,"Sunday Times, The",Journalist,5807,@DavidCollinsST,David Collins,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Defence Correspondent
+5800,"Sunday Times, The",Journalist,5808,@DuncanCastles,Duncan Castles,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Sport Correspondent
+5800,"Sunday Times, The",Journalist,5809,@TomJHarper,Tom Harper,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Home Affairs Correspondent
+5900,"Sunday Times Scotland, The",Newspaper,5900,@SundayTimesScot,,http://www.thesundaytimes.co.uk/Scotland,News Corp,,,,,,,National Broadsheet Scotland,Scotland Edition,Scotland Edition,,
+5900,"Sunday Times Scotland, The",Journalist,5901,@SundayTimesSco,Jason Allardyce,http://www.thesundaytimes.co.uk/Scotland,News Corp,,,,,,,,,,,Scottish Editor
+5900,"Sunday Times Scotland, The",Journalist,5902,@greigcameron,Greig Cameron,http://www.thesundaytimes.co.uk/Scotland,News Corp,,,,,,,,,,,Scottish Business Editor
+5900,"Sunday Times Scotland, The",Journalist,5903,@KennyFarq,Kenny Farquharson,http://www.thesundaytimes.co.uk/Scotland,News Corp,,,,,,,,,,,Senior Writer
+6000,"Times, The",Newspaper,6000,@thetimes,,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,
+6000,"Times, The",Journalist,6001,@harrynwilson,Harry Wilson,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,City Editor
+6000,"Times, The",Journalist,6002,@fletcherr,Richard Fletcher,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Business Editor
+6000,"Times, The",Journalist,6003,@aliosborne20,Alistair Osborne,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Chief Business Commentator
+6000,"Times, The",Journalist,6004,@elliotttimes,Francis Elliot,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Political Editor
+6000,"Times, The",Journalist,6005,@SamCoatesTimes,Sam Coates,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Deputy Politcal Editor
+6000,"Times, The",Journalist,6006,@haynesdeborah,Deborah Haynes,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Defence Editor
+6000,"Times, The",Journalist,6007,@Fhamiltontimes,Fiona Hamilton,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Crime and Security Editor
+6000,"Times, The",Journalist,6008,@DickinsonTimes,Matt Dickinson,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Chief Sports Writer
+6000,"Times, The",Journalist,6009,,Paul Ackford,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Rugby Correspondent
+6000,"Times, The",Journalist,6010,@DAaronovitch,David Aronovitch,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Columnist
+6000,"Times, The",Journalist,6011,@Dannythefink,Daniel Finkelstein,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Political Columnist
+6000,"Times, The",Journalist,6012,@RFord64,Richard Ford,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Home Correspondent
+6000,"Times, The",Journalist,6013,@TomCoghlan,Tom Coghlan,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Middle East Correspondent
+6000,"Times, The",Journalist,6014,@TimesONeill,Sean O'Neill,http://www.thetimes.co.uk/,News Corp,,,,,,,,,,,Chief Reporter
+6100,"Western Mail, The",Newspaper,6100,@WalesOnline,,http://www.walesonline.co.uk,Trinity Mirror Group,1,01/01/01,Current,1,11/28/01,Current,National Wales,,Wales,,
+6100,"Western Mail, The",Journalist,6101,@CatPascoe,Catrin Pascoe,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,Western Mail Editor
+6100,"Western Mail, The",Journalist,6102,@AledBlake,Aled Blake,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,News Editor and Columnist
+6100,"Western Mail, The",Journalist,6103,@cathymediawales,Cathy Owen,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,Breaking News Editor
+6100,"Western Mail, The",Journalist,6104,@dp_williamson,David Williamson,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,Political Editor
+6100,"Western Mail, The",Journalist,6105,@karenmediawales,Karen Price,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,Acting Editor What's On/Lifestyle
+6100,"Western Mail, The",Journalist,6106,@liz_day_mw,Liz Day,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,Senior Reporter
+6100,"Western Mail, The",Journalist,6107,@asoundreaction,David Owens,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,Senior Reporter
+6100,"Western Mail, The",Journalist,6108,@JessFlynnMorgan,Jessica Morgan,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,Reporter
+6100,"Western Mail, The",Journalist,6109,@ChrisWathan,Chris Wathan,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,Football Reporter
+6100,"Western Mail, The",Journalist,6110,@andyhowellsport,Andy Howell,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,Rugby Reporter
+6100,"Western Mail, The",Journalist,6111,@KathW80,Kathryn Williams,http://www.walesonline.co.uk,Trinity Mirror Group,,,,,,,,,,,Showbiz reporter
+6200,Wales on Sunday,Newspaper,6200,@WalesonSunday,,http://www.walesonline.co.uk,Trinity Mirror Group,1,01/07/01,Current,1,11/25/01,Current,,,,,
+6300,Y Cymro,Newspaper,6300,@Y_Cymro,,http://www.y-cymro.com,Tindle Newspapers,,,,,,,,,,,
+10002,"Press and Journal, The (Aberdeen Press and Journal)",Newspaper,10002,@pressjournal,,https://www.pressandjournal.co.uk,DC Thomson and Co. Ltd.,1,12-Jan-98,Current,,,,"Regional, Local",,Scotland Local,Aberdeen,
+10003,Abergele Visitor,Newspaper,10003,,,,,,,,,,,Regional ,,Wales,,
+10004,Abingdon Herald,Newspaper,10004,@heraldseriesnew,,,,1,16-May-07,10-Sep-08,,,,Local,,England Local,Abingdon,
+10005,Accrington Observer,Newspaper,10005,@AccringtonNews,,,,,,,,,,Local,,England Local,Accrington,
+10006,"Advertiser, The",Newspaper,10006,,,,,,,,,,,Local,,England Local,"North Yorkshire, Norwich, Chesterfield",
+10007,Aintree & Maghull Champion,Newspaper,10007,@champnews,,,,,,,,,,Regional,Weekly,England Regional,,
+10008,Airdrie & Coatbridge Advertiser,Newspaper,10008,@acadvertiser,,,,1,02-Feb-11,Current,,,,,,,,
+10009,Alton Herald,Newspaper,10009,,,,,,,,,,,Local,,England Local,Alton,
+10010,Andersonstown News,Newspaper,10010,@ATownNews,,,,,,,,,,Local,,Northern Ireland Local,Belfast,
+10011,Andover Advertiser,Newspaper,10011,@AndoverAd,,,,1,05/05/07,Current,,,,,,,,
+10012,Anfield & Walton Champion ,Newspaper,10012,@champnews,,,,,,,,,,Regional,Weekly,England Regional,,
+10013,Antrim Guardian,Newspaper,10013,,,,,,,,,,,Local,,Northern Ireland Local,County Antrim,
+10014,Antrim Times,Newspaper,10014,,,,,1,05/12/09,Current,,,,Local,,Northern Ireland Local,County Antrim,
+10015,"Argus, The",Newspaper,10015,@brightonargus,,,,1,01/01/98,Current,,,,"Regional, Local",,"England Regional, Local",Brighton,
+10016,Armagh Advertiser,Newspaper,10016,,,,,,,,,,,Local,,Northern Ireland Local,County Armagh,
+10017,Ashbord Adscene,Newspaper,10017,,,,,1,06/13/08,12/08/11,,,,,,,,
+10018,Ashbourne News Telegraph,Newspaper,10018,@AshbourneNews,,,,1,02/13/02,Current,,,,,,,,
+10019,Ashford Herald,Newspaper,10019,@AshfordHerald,,,,,,,,,,"Regional, Local",,"England Regional, Local","Ashford, Kent",
+10020,Asian Image,Newspaper,10020,@asianimage,,,,1,05/16/07,Current,,,,,,,,
+10021,"Asian Today, The (Midlands)",Newspaper,10021,@TheAsianToday,,,,,,,,,,Regional,,England Regional,,
+10022,Bakewell Today,Newspaper,10022,@bakewell_today,,,,1,05/11/09,Current,,,,,,,,
+10023,Ballycastle Chronicle,Newspaper,10023,,,,,,,,,,,Local,,Northern Ireland Local,County Antrim,
+10024,Ballyclare Gazette,Newspaper,10024,,,,,,,,,,,Local,,Northern Ireland Local,County Antrim,
+10025,Ballymena Guardian,Newspaper,10025,,,,,,,,,,,Local,,Northern Ireland Local,County Antrim,
+10026,Ballymena Times,Newspaper,10026,@Ballymena_Times,,,,1,02/09/09,Current,,,,Local,,Northern Ireland Local,County Antrim,
+10027,Ballymoney Chronicle,Newspaper,10027,,,,,,,,,,,Local,,Northern Ireland Local,County Antrim,
+10028,Ballymoney Times,Newspaper,10028,@BMoney_Times,,,,1,05/01/09,Current,,,,,,,,
+10029,Banbridge Leader,Newspaper,10029,@banleader,,,,1,09/07/10,Current,,,,,,,,
+10030,Banbury Cake,Newspaper,10030,@banburycakenews,,,,1,05/23/07,05/14/08,,,,Local,,England Local,Banbury,
+10031,Banbury Guardian,Newspaper,10031,@banburynews,,,,1,02/12/09,Current,,,,Local,,England Local,Banbury,
+10032,Bangor and Anglesey Mail,Newspaper,10032,,,,,,,,,,,Regional ,,Wales,,
+10033,Bangor Spectator,Newspaper,10033,,,,,,,,,,,Local,,Northern Ireland Local,County Down,
+10034,Barking & Dagenham Post,Newspaper,10034,@BDPost,,,,1,05/11/11,Current,,,,Local,,England Local,,
+10035,Barking & Dagenham Recorder,Newspaper,10035,,,,,,,,,,,Local,,England Local,London,
+10036,Barking & Dagenham Yellow Advertiser,Newspaper,10036,,,,,,,,,,,Local,,England Local,London,
+10037,"Barnsley Chronicle, The",Newspaper,10037,,,,,,,,,,,Local,,England Local,Barnsley,
+10038,Barry and District News,Newspaper,10038,,,,,1,05/17/07,Current,,,,,,,,
+10039,Basildon Recorder,Newspaper,10039,,,,,1,06/26/13,Current,,,,,,,,
+10040,Basildon Yellow Advertiser,Newspaper,10040,@BasildonYA,,,,,,,,,,Local,,England Local,Basildon,
+10041,Basingstoke Gazette,Newspaper,10041,@BasGazette,,,,1,05/16/07,Current,,,,Local,,England Local,Basingstoke,
+10042,Basingstoke Observer,Newspaper,10042,@BasingstokeNews,,,,,,,,,,Local,,England Local,Basingstoke,
+10043,Batley News,Newspaper,10043,@Batley_News,,,,1,01/08/09,Current,,,,,,,,
+10044,Beccles and Bungay Journal,Newspaper,10044,@BBJournal24,,,,1,07/29/11,Current,,,,,,,,
+10045,Bedford Today,Newspaper,10045,,,,,1,02/09/09,Current,,,,,,,,
+10046,Bedfordshire on Sunday,Newspaper,10046,@bedfordnews,,,,1,01/30/07,08/03/14,,,,Local,,England Local,Bedfordshire,
+10050,Belper News,Newspaper,10050,@belperlatest,,,,1,02/04/09,Current,,,,,,,,
+10051,Berhamsted & Tring Gazette,Newspaper,10051,,,,,1,05/02/12,Current,,,,,,,,
+10052,Berrow's Worcester Journal,Newspaper,10052,,,,,,,,,,,Local,,England Local,Worcester,
+10053,Berwick Advertiser,Newspaper,10053,@BAdvertiser,,,,1,09/16/08,Current,,,,Regional,,England Regional,,
+10054,Berwickshire News,Newspaper,10054,@theberwickshire,,,,1,02/11/09,Current,,,,,,,,
+10055,Beverly Guardian,Newspaper,10055,@BevGuardian,,,,1,02/12/09,Current,,,,,,,,
+10056,Bexhill Observer,Newspaper,10056,@BexhillObs,,,,1,02/10/09,Current,,,,,,,,
+10057,Bexley Mercury,Newspaper,10057,,,,,,,,,,,Local,,England Local,London,
+10058,Bexley Times,Newspaper,10058,@BexleyTimes,,,,1,02/02/11,07/05/12,,,,Local,,England Local,London,
+10059,Bicester Advertiser,Newspaper,10059,@bicesternews,,,,1,01/01/00,Current,,,,Local,,England Local,Bicester,
+10060,Bicester Review,Newspaper,10060,@AdvertiserGrp,,,,,,,,,,Local,,England Local,Bicester,
+10061,Biggleswade Chronicle,Newspaper,10061,@BiggyChronicle,,,,1,02/03/09,Current,,,,,,,,
+10062,Birmingham Evening Mail,Newspaper,10062,@birminghammail,,,,1,02/01/98,Current,,,,Regional,,England Regional,,
+10063,Birmingham Post,Newspaper,10063,@birminghampost,,,,1,02/02/98,Current,,,,Local,Weekly,England Local,Birmingham,
+10064,Bishop's Stortford Citizen,Newspaper,10064,,,,,1,05/16/07,06/19/08,,,,,,,,
+10065,Black County Bugle,Newspaper,10065,,,,,1,01/22/14,Current,,,,,,,,
+10066,Blackmore Vale Magazine,Newspaper,10066,@bvmmagazine,,,,1,06/13/08,Current,,,,,,,,
+10067,Blackpool Citizen,Newspaper,10067,,,,,1,05/15/07,12/23/08,,,,,,,,
+10068,Blackpool Gazette,Newspaper,10068,@The_Gazette,,,,1,09/10/05,Current,,,,Local,,England Local,Blackpool,
+10069,Bognor Regis Observer,Newspaper,10069,@BogObserver,,,,1,05/09/12,Current,,,,,,,,
+10070,Bolton News,Newspaper,10070,@TheBoltonNews,,,,1,01/01/98,Current,,,,Local,,England Local,Bolton,
+10071,Bo'ness Journal,Newspaper,10071,,,,,1,05/10/12,Current,,,,,,,,
+10072,Bootle Champion,Newspaper,10072,@champnews,,,,,,,,,,Local,,England Local,Bootle,
+10073,Borehamwood Times,Newspaper,10073,@Bwood_Times,,,,1,05/16/07,Current,,,,,,,,
+10074,Boston Standard,Newspaper,10074,@standardboston,,,,1,02/10/09,Current,,,,Local,,England Local,"Boston, Lincolnshire",
+10075,Boston Target,Newspaper,10075,@BostonTarget,,,,,,,,,,Local,,England Local,"Boston, Lincolnshire",
+10076,Bourne Local,Newspaper,10076,@thebournelocal,,,,1,02/13/09,Current,,,,Local,,England Local,"Bourne, Lincolnshire",
+10077,Bournemouth Daily Echo,Newspaper,10077,@Bournemouthecho,,,,1,01/01/70,Current,,,,Regional,,England Regional,,
+10078,Bracknell & Ascot Times,Newspaper,10078,,,,,,,,,,,Local,,England Local,Ascot,
+10079,Bracknell Midweek,Newspaper,10079,,,,,,,,,,,Local,,England Local,Bracknell,
+10080,Bracknell News,Newspaper,10080,@bracknellnews,,,,,,,,,,Local,,England Local,Bracknell,
+10081,Bracknell Standard,Newspaper,10081,@getbracknell,,,,,,,,,,Local,,England Local,Bracknell,
+10082,Bradford Telegraph and Argus,Newspaper,10082,@Bradford_TandA,,,,1,01/01/07,Current,,,,Local,,England Local,Bradford,
+10083,"Bradfordian, The",Newspaper,10083,@TheBradfordian,,,,,,,,,,Local,,England Local,Bradford,
+10084,Braintree and Witham Times,Newspaper,10084,@BraintreeTimes,,,,1,05/16/07,Current,,,,Local,,England Local,"Braintree, Essex",
+10085,Brechin Advertiser,Newspaper,10085,@The_Brechiner,,,,1,02/12/09,Current,,,,,,,,
+10086,Brent & Wembley Leader,Newspaper,10086,,,,,,,,,,,Local,,England Local,London,
+10087,Brentwood Gazette,Newspaper,10087,@Gazetteseries,,,,1,09/15/10,Current,,,,Local,,England Local,Brentwood,
+10088,Brentwood Weekly News,Newspaper,10088,@BrentwoodWNews,,,,1,05/17/07,Current,,,,,,,,
+10089,Bridgwater Mercury,Newspaper,10089,@BWMercury,,,,1,05/16/07,Current,,,,,,,,
+10090,Bridlington Free Press,Newspaper,10090,,,,,1,01/07/08,Current,,,,Local,,England Local,Bridlington,
+10091,Bridport and Lyme Regis News and The Bridgeport News,Newspaper,10091,@thebridportnews,,,,1,05/17/07,Current,,,,Local,,England Local,Bridport (Dorset),
+10093,Brighouse Echo,Newspaper,10093,@Brighouse_Echo,,,,1,02/12/09,Current,,,,Local,Weekly,England Local,Brighouse,
+10094,Bristol Evening Post,Newspaper,10094,,,,,,,,,,,Local,,England Local,Bristol,
+10095,Bristol Observer ,Newspaper,10095,@BristolObserver,,,,1,01/14/14,Current,,,,Local,Weekly,England Local,Bristol,
+10096,"Bristol Post, The",Newspaper,10096,@BristolPost,,,,1,01/01/97,Current,,,,Regional,,England Regional,,
+10097,Bromsgrove Advertiser,Newspaper,10097,@Brom_Advertiser,,,,1,05/16/07,Current,,,,,,,,
+10098,Bromsgrove Standard,Newspaper,10098,@BromStandard,,,,,,,,,,Local,,England Local,Bromsgrove,
+10099,Buchan Observer,Newspaper,10099,@buchanienews,,,,1,05/05/09,Current,,,,,,,,
+10100,"Buckingham and Winslow Advertiser, The",Newspaper,10100,@AdvertiserGrp,,,,1,05/02/12,Current,,,,Local,,England Local,Buckingham,
+10101,Bucks Examiner,Newspaper,10101,,,,,,,,,,,Local,Weekly,England Local,Chesham,
+10102,Bucks Free Press,Newspaper,10102,@bucksfreepress,,,,1,05/16/07,Current,,,,Regional,,England Regional,,
+10103,Bucks Herald,Newspaper,10103,@bucks_herald,,,,1,02/21/09,Current,,,,Local,,England Local,Aylesbury,
+10104,Bude & Stratton Post,Newspaper,10104,@ThePostSeries,,,,,,,,,,Local,,England Local,Bude (Cornwall),
+10105,Burnham & Highbridge Weekly News,Newspaper,10105,@BHWeeklyNews,,,,1,05/15/07,Current,,,,,,,,
+10106,Burnley Express,Newspaper,10106,@BurnleyExpress,,,,1,05/10/12,Current,,,,Local,,England Local,Burnley,
+10107,Burton Advertiser,Newspaper,10107,@Burton_Advertis,,,,1,07/17/14,Current,,,,,,,,
+10108,Burton Mail,Newspaper,10108,@BurtonMailNews,,,,1,08/03/11,Current,,,,Local,,England Local,Burton-upon-Trent,
+10109,Bury Free Press,Newspaper,10109,@buryfree,,,,1,11/21/08,Current,,,,Local,,England Local,Bury St. Edmunds,
+10110,Bury Times,Newspaper,10110,@BuryTimes,,,,1,05/17/07,Current,,,,Local,,England Local,Bury,
+10111,"Buteman, The",Newspaper,10111,@the_buteman,,,,1,02/12/09,Current,,,,,,,,
+10112,Buxton Advertiser,Newspaper,10112,@Buxton_News,,,,1,02/12/09,Current,,,,Local,,England Local,Buxton,
+10113,Caernarfon Herald,Newspaper,10113,@CDHerald,,,,,,,,,,Regional ,,Wales,,
+10114,Cambrian News,Newspaper,10114,@CambrianNews,,,,,,,,,,Regional ,,Wales,,
+10115,Cambridge Evening News,Newspaper,10115,,,,,1,06/28/02,Current,,,,Local,,England Local,Cambridge,
+10116,Cambridge First,Newspaper,10116,,,,,1,03/24/11,06/19/02,,,,,,,,
+10117,Cambridge News,Newspaper,10117,@CambridgeNewsUK,,,,,,,,,,Regional,,England Regional,,
+10118,"Cambs Times, The",Newspaper,10118,@cambstimes,,,,1,03/25/11,Current,,,,,,,,
+10119,Camden Gazette,Newspaper,10119,,,,,,,,,,,Local,,England Local,London,
+10120,Camden New Journal,Newspaper,10120,@NewJournal,,,,,,,,,,Local,,England Local,London,
+10121,Camelford & Delabole Post,Newspaper,10121,@ThePostSeries,,,,,,,,,,Local,,England Local,Camelford (Cornwall),
+10122,Campaign Series,Newspaper,10122,@campaignseries,,,,1,05/16/07,Current,,,,,,,,
+10123,Canterbury Times,Newspaper,10123,@TimesSeries,,,,1,06/13/08,Current,,,,Local,,England Local,Canterbury,
+10124,Carluke Lanark Gazette,Newspaper,10124,@cl_gazette,,,,1,05/09/12,Current,,,,,,,,
+10125,Carmarthen Journal,Newspaper,10125,@Carmjournal,,,,1,09/15/10,Current,,,,Regional ,,Wales,,
+10126,Carrick Gazette,Newspaper,10126,@CarrGaz,,,,1,07/02/10,Current,,,,,,,,
+10127,Carrick Times,Newspaper,10127,@Carrick_Times,,,,1,07/14/10,Current,,,,,,,,
+10128,Carrickfergus Advertiser,Newspaper,10128,@CarrickAd,,,,,,,,,,Local,,Northern Ireland Local,County Antrim,
+10129,Caterham Advertiser,Newspaper,10129,,,,,1,06/13/08,Current,,,,,,,,
+10130,Celtic Weekly Newspapers,Newspaper,10130,,,,,,,,,,,Regional ,,Wales,,
+10131,Central Somerset Gazette,Newspaper,10131,@CenSomGazNews,,,,1,06/11/08,06/05/14,,,,,,,,
+10132,Chad (Chronicle Advertiser),Newspaper,10132,,,,,,,,,,,Local,,England Local,Mansfield,
+10133,"Champion, The (Southport)",Newspaper,10133,@champnews,,,,,,,,,,Regional,,England Regional,,
+10134,Chard & Ilminster News,Newspaper,10134,@chardandilynews,,,,1,06/26/13,Current,,,,,,,,
+10135,Cheddar Valley Gazette,Newspaper,10135,@CheddarVGazette,,,,1,06/11/08,06/05/14,,,,,,,,
+10136,Chelmsford Weekly News,Newspaper,10136,@ChelmsfordWNews,,,,1,05/16/07,Current,,,,,,,,
+10137,Cheshunt (and Waltham Cross) Mercury,Newspaper,10137,,,,,,,,,,,Local,,England Local,Cheshunt,
+10138,Chester and District Standard,Newspaper,10138,,,,,,,,,,,Local,Weekly,England Local,Chester,
+10139,Chester Chronicle,Newspaper,10139,@ChesterChron,,,,1,12/03/07,Current,,,,Local,Weekly,England Local,Chester,
+10140,Chester Evening Leader,Newspaper,10140,,,,,,,,,,,Local,,England Local,Chester,
+10141,Chester Mail,Newspaper,10141,,,,,,,,,,,Local,Weekly,England Local,Chester,
+10142,Chew Valley Gazette,Newspaper,10142,@ChewGazette,,,,,,,,,,Local,,England Local,Chew Valley,
+10143,Chichester Observer,Newspaper,10143,@Chiobserver,,,,1,05/09/12,Current,,,,Local,,England Local,Chichester,
+10144,Chorley Citizen,Newspaper,10144,@chorleycitizen,,,,1,05/16/07,Current,,,,Local,Weekly,England Local,Chorley,
+10145,Chorley Guardian,Newspaper,10145,@guardianchorley,,,,1,05/10/12,Current,,,,Local,Weekly,England Local,Chorley,
+10146,Chronicle Extra,Newspaper,10146,,,,,,,,,,,Local,,England Local,Newcastle upon Tyne,
+10147,"Citizen, The",Newspaper,10147,,,,,,,,,,,"Regional, Local",,"England Regional, Local",King's Lynn,
+10150,Clacton and Frinton Gazette,Newspaper,10150,@ClactonGazette,,,,1,05/16/07,Current,,,,,,,,
+10151,Clevedon Mercury,Newspaper,10151,,,,,1,06/12/08,02/10/11,,,,,,,,
+10152,Clitheroe Advertiser & Times,Newspaper,10152,,,,,1,03/30/10,Current,,,,,,,,
+10153,Coalville Times,Newspaper,10153,@CoalvilleTimes,,,,,,,,,,Local,Weekly,England Local,Coalville,
+10154,Coleraine Chronicle,Newspaper,10154,,,,,,,,,,,Local,,Northern Ireland Local,County Londonderry,
+10155,"Coleraine Leader, The",Newspaper,10155,,,,,,,,,,,Local,,Northern Ireland Local,County Londonderry,
+10156,Coleraine Times,Newspaper,10156,@Coleraine_Times,,,,1,02/11/09,Current,,,,,,,,
+10157,Colne Valley Chronicle,Newspaper,10157,,,,,,,,,,,Local,,England Local,Huddersfield,
+10158,"Comet, The",Newspaper,10158,@thecomet24,,,,1,03/24/11,Current,,,,,,,,Not certain on this account
+10159,Community Telegraph,Newspaper,10159,,,,,,,,,,,Local,,Northern Ireland Local,Belfast,
+10160,Congleton Chronicle,Newspaper,10160,@CongletonChron,,,,,,,,,,Local,,England Local,Congleton,
+10161,Cornish & Devon Post,Newspaper,10161,@ThePostSeries,,,,,,,,,,Local,,England Local,Launceston (Cornwall),
+10162,Cornish Guardian,Newspaper,10162,@CornishGuardian,,,,1,04/06/10,Current,,,,Regional,,England Regional,,
+10163,"Cornishman, The",Newspaper,10163,@CornishmanPaper,,,,1,08/12/10,Current,,,,Regional,,England Regional,,
+10164,Cotswold Journal,Newspaper,10164,,,,,1,05/16/07,Current,,,,Local,,England Local,Cotswolds,
+10165,County Derry Post,Newspaper,10165,@derrypost,,,,,,,,,,Local,,Northern Ireland Local,County Londonderry,
+10166,County Down Outlook,Newspaper,10166,,,,,,,,,,,Local,,Northern Ireland Local,County Down,
+10167,County Down Spectator,Newspaper,10167,@codownspectator,,,,,,,,,,Local,,Northern Ireland Local,County Down,
+10169,Coventry Advertiser,Newspaper,10169,@CovAdvertiser,,,,,,,,,,Local,,England Local,Coventry,
+10170,Coventry Citizen,Newspaper,10170,,,,,,,,,,,Local,Weekly,England Local,Coventry,
+10171,Coventry Observer,Newspaper,10171,@covobservernews,,,,,,,,,,Local,Weekly,England Local,Coventry,
+10172,Coventry Telegraph,Newspaper,10172,@covtelegraph,,,,,,,,,,"Regional, Local",,"England Regional, Local",Coventry,
+10174,Craven Herald & Pioneer (Craven Herald),Newspaper,10174,@CravenHerald,,,,1,05/16/07,Current,,,,Local,,England Local,Skipton,
+10175,Crawley News,Newspaper,10175,@crawley_news,,,,1,06/11/08,Current,,,,Local,,England Local,Crawley,
+10176,Crawley Observer,Newspaper,10176,@Crawley_Obby,,,,1,02/09/09,Current,,,,Local,,England Local,Crawley,
+10177,Crewe Chronicle,Newspaper,10177,@CreweChronicle,,,,,,,,,,Local,,England Local,Crewe,
+10178,Crewe Guardian,Newspaper,10178,@Crewe_Nantwich,,,,1,05/21/07,Current,,,,Local,Weekly,England Local,Crewe,
+10179,Crosby & Litherland Champion ,Newspaper,10179,@champnews,,,,,,,,,,Regional,Weekly,England Regional,,
+10180,Croydon Advertiser,Newspaper,10180,@CroydonAd,,,,1,06/09/08,Current,,,,Local,Weekly,England Local,Croydon,
+10181,Croydon Guardian ,Newspaper,10181,@CroydonGuardian,,,,1,05/16/07,Current,,,,Local,Weekly,England Local,Croydon,
+10182,Croydon Post,Newspaper,10182,,,,,,,,,,,Local,Weekly,England Local,Croydon,
+10183,Cumberland and Westmorland Herald,Newspaper,10183,@CWHerald,,,,,,,,,,Local,Weekly,England Local,Penrith,
+10184,Cumberland News,Newspaper,10184,@cumbnews,,,,1,05/09/12,Current,,,,Local,Weekly,England Local,Carlisle,
+10186,Southern Daily Echo,Newspaper,10186,@dailyecho,,,,1,01/01/00,Current,,,,Regional,,England Regional,,
+10190,Daily Post,Newspaper,10190,@dailypostwales,,,,1,07/31/01,Current,,,,,,,,
+10194,Daily Star Sunday,Newspaper,10194,@DailyStarSunday,,,,1,09/15/02,Current,,,,National Tabloid,Sunday,Tabloid,,
+10198,Darlington & Stockton Times,Newspaper,10198,,,,,,,,,,,Local,,England Local,Durham,
+10199,"Dartford Messenger, The",Newspaper,10199,@KMDartford,,,,1,09/25/08,Current,,,,,,,,
+10200,Daventry Express ,Newspaper,10200,@DxGusher,,,,1,02/12/09,Current,,,,Local,Weekly,England Local,Daventry,
+10201,Deal and Sandwich Express,Newspaper,10201,,,,,,,,,,,Regional,,England Regional,,
+10202,Deeside Piper & Herald,Newspaper,10202,,,,,1,02/12/09,Current,,,,,,,,
+10203,Denbighshire Visitor,Newspaper,10203,,,,,,,,,,,Regional ,,Wales,,
+10204,Derby Evening Telegraph,Newspaper,10204,@DerbyshireEnts,,,,,,,,,,Local,,England Local,Derby,
+10205,Derby Express,Newspaper,10205,,,,,,,,,,,Local,Weekly,England Local,Derby,
+10206,Derby Telegraph,Newspaper,10206,@DerbyTelegraph,,,,1,10/20/98,Current,,,,Regional,,England Regional,,
+10207,Derby Trader,Newspaper,10207,,,,,,,,,,,Local,Weekly,England Local,Derby,
+10208,Derbyshire Times,Newspaper,10208,@D_Times,,,,1,10/20/10,Current,,,,Local,,England Local,Chesterfield,
+10209,Dereham and Fakenham Times,Newspaper,10209,,,,,1,07/28/11,Current,,,,,,,,
+10210,Derry Journal,Newspaper,10210,@derryjournal,,,,1,02/12/09,Current,,,,Local,,Northern Ireland Local,County Londonderry,
+10211,Derry News,Newspaper,10211,@DerryNews,,,,,,,,,,Local,,Northern Ireland Local,County Londonderry,
+10212,Dewsbury Reporter,Newspaper,10212,@DewsReporter,,,,1,02/05/09,Current,,,,Local,,England Local,Dewsbury,
+10213,Dinnington Guardian,Newspaper,10213,@Dinnonews,,,,1,02/13/09,Current,,,,,,,,
+10214,Diss Express,Newspaper,10214,@Diss_Express,,,,1,06/20/07,Current,,,,Local,,England Local,"Diss, Norfolk",
+10215,"Diss, Wymondham and Attleborough Mercury",Newspaper,10215,@dissmercury,,,,1,07/28/11,Current,,,,,,,,
+10216,"Docklands and East London Advertiser, The",Newspaper,10216,,,,,1,11/11/10,11/15/12,,,,,,,,
+10217,Doncaster Free Press,Newspaper,10217,@DonnyFreePress,,,,1,02/19/09,Current,,,,Local,,England Local,Doncaster,
+10218,Donegal Democrat,Newspaper,10218,@dgldemocrat,,,,1,02/10/09,Current,,,,,,,,
+10219,Donegal on Sunday,Newspaper,10219,,,,,1,02/19/09,Current,,,,,,,,
+10220,Donside Piper & Herald,Newspaper,10220,,,,,1,05/05/10,Current,,,,,,,,
+10221,Dorking Advertiser,Newspaper,10221,@dorkingnews,,,,1,06/12/08,06/05/14,,,,,,,,
+10222,Dorking and Leatherhead Advertiser,Newspaper,10222,,,,,1,10/10/13,Current,,,,,,,,
+10223,Dorset Echo,Newspaper,10223,@Dorsetecho,,,,1,05/15/07,Current,,,,,,,,
+10224,Dover Express,Newspaper,10224,@doverexpress,,,,1,06/12/08,Current,,,,Local,,England Local,Dover,
+10225,Dover Mercury,Newspaper,10225,@DoverMercury,,,,,,,,,,Local,,England Local,Dover,
+10226,Down Recorder,Newspaper,10226,@DownRec ,,,,,,,,,,Local,,Northern Ireland Local,County Down,
+10227,Driffield Times & Post,Newspaper,10227,,,,,1,12/03/08,Current,,,,Local,,England Local,Driffield,
+10228,Droitwich Advertiser,Newspaper,10228,@DroitAdvertiser,,,,1,05/16/07,Current,,,,Regional,,England Regional,,
+10229,Droitwich Standard,Newspaper,10229,@DroitStand,,,,,,,,,,Local,,England Local,Droitwich,
+10230,Dromore Leader,Newspaper,10230,@droleader,,,,1,02/17/09,Current,,,,,,,,
+10231,Dudley News,Newspaper,10231,@DudleyNews1,,,,1,05/16/07,Current,,,,Local,Weekly,England Local,Dudley,
+10232,Dumfries & Galloway Standard,Newspaper,10232,@DGStandard,,,,1,01/28/11,Current,,,,,,,,
+10233,Dundalk Democrat,Newspaper,10233,@DundalkDemocrat,,,,1,02/11/09,Current,,,,,,,,
+10234,"Dunmow Broadcast, The",Newspaper,10234,@dunmowbroadcast,,,,1,03/24/11,Current,,,,,,,,
+10235,Dunstable Today,Newspaper,10235,,,,,1,05/02/12,Current,,,,,,,,
+10236,Durham Times,Newspaper,10236,,,,,,,,,,,Local,,England Local,Durham,
+10237,Ealing Gazette,Newspaper,10237,@EalingGazette,,,,,,,,,,Local,,England Local,London,
+10238,Ealing Informer,Newspaper,10238,,,,,,,,,,,Local,,England Local,London,
+10239,Ealing Leader,Newspaper,10239,,,,,,,,,,,Local,,England Local,London,
+10240,Ealing Times,Newspaper,10240,@EalingTimes,,,,1,05/16/07,Current,,,,,,,,
+10241,East Anglian Daily Times,Newspaper,10241,@EADT24,,,,1,01/01/07,Current,,,,Regional,,England Regional,,
+10242,East Grinstead Courier and Observer,Newspaper,10242,@EG_Courier,,,,1,01/02/14,Current,,,,,,,,
+10243,East Herts Herald,Newspaper,10243,,,,,1,03/24/11,Current,,,,,,,,
+10244,East Kent Mercury,Newspaper,10244,@EastKentMercury,,,,1,09/25/08,Current,,,,Local,,England Local,Deal and Sandwich,
+10244,East Kent Mercury,Newspaper,10245,@MercuryKM,,,,1,09/25/08,Current,,,,Local,,England Local,Deal and Sandwich,More than 1 Twitter
+10246,East London Advertiser,Newspaper,10246,@ELAdvertiser,,,,,,,,,,Local,,England Local,London,
+10247,East Lothian News,Newspaper,10247,@ELCouncil,,,,1,02/12/09,Current,,,,,,,,
+10248,East Riding Mail,Newspaper,10248,,,,,,,,,,,Regional,,England Regional,,
+10249,Eastbourne Gazette,Newspaper,10249,,,,,,,,,,,Local,,England Local,Eastbourne,
+10250,Eastbourne Herald,Newspaper,10250,,,,,1,02/13/09,Current,,,,Local,,England Local,Eastbourne,
+10251,Eastern Daily Press,Newspaper,10251,@EDP24,,,,1,03/17/03,Current,,,,Regional,,England Regional,,
+10252,Eastwood Advertiser,Newspaper,10252,@EKAdvertiser,,,,1,01/19/07,Current,,,,,,,,
+10253,"Echo, The",Newspaper,10253,@Echo_Newspapers,,,,1,05/15/07,Current,,,,,,,,Uncertain
+10254,Edinburgh Evening News ,Newspaper,10254,,,,,1,02/07/11,Current,1,01/16/02,Current,Local ,,Scotland Local,,
+10255,Ellon Times,Newspaper,10255,@TheEllonTimes,,,,1,05/22/09,Current,,,,,,,,
+10256,Elmbridge Guardian,Newspaper,10256,,,,,1,02/02/09,Current,,,,,,,,
+10257,Ely Standard,Newspaper,10257,@elystandard,,,,1,03/24/11,Current,,,,,,,,
+10258,Enfield Advertiser and Gazette,Newspaper,10258,@NrthLondonNews,,,,,,,,,,Local,,England Local,London,
+10260,Enfield Independent,Newspaper,10260,@Enfield_Indy,,,,1,05/16/07,Current,,,,,,,,
+10261,Epsom Guardian,Newspaper,10261,@epsomguardian,,,,1,05/17/07,Current,,,,,,,,
+10262,Epworth Bells,Newspaper,10262,@EpworthB,,,,1,05/09/12,Current,,,,,,,,
+10263,Esk Valley Today,Newspaper,10263,,,,,1,08/03/10,Current,,,,,,,,
+10264,Essex Chronicle,Newspaper,10264,@EssexChronicle,,,,1,09/16/10,Current,,,,Regional,,England Regional,,
+10265,Evening Chronicle,Newspaper,10265,@EveningChron,,,,,,,,,,"Regional, Local",,"England Regional, Local",Newcastle upon Tyne,
+10266,"Evening Echo, The",Newspaper,10266,,,,,,,,,,,Local,,England Local,Southend,
+10268,Evening Gazette,Newspaper,10268,@EveningGazette,,,,1,01/02/03,Current,,,,Local,,England Local,Colchester and Middlesbrough,
+10269,Evening Mail,Newspaper,10269,@NWEMlive,,,,,,,,,,Local,,England Local,Birmingham,
+10270,Evening News (Edinburgh),Newspaper,10270,,,,,1,10/16/97,Current,,,,,,,,
+10271,Evening News (Norwich),Newspaper,10271,@EveningNews,,,,1,01/01/07,Current,,,,Local,,England Local,Norwich,
+10272,Evening Standard,Newspaper,10272,@EveningStandard,,,,1,01/01/92,Current,,,,"National Tabloid, London Local",,Freesheet in Urban Centre,London,More than 1 Twitter
+10274,Evening Star,Newspaper,10274,,,,,1,01/01/07,Current,,,,Local,,England Local,Ipswich,
+10275,Evening Telegraph ,Newspaper,10275,@Evening_Tele,,,,1,05/02/12,Current,,,,Local ,,Scotland Local,,
+10277,Evesham Journal,Newspaper,10277,@EveshamJournal,,,,1,05/15/07,Current,,,,Local,,England Local,Evesham,
+10278,Exeter Express and Echo,Newspaper,10278,,,,,1,03/04/98,Current,,,,,Weekly,,,
+10279,Exmouth Journal,Newspaper,10279,@exmouthjournal,,,,1,09/16/11,Current,,,,Local,,England Local,Exmouth,
+10280,Express & Star,Newspaper,10280,@ExpressandStar,,,,,,,,,,"Regional, Local",,"England Regional, Local","Dudley, Wolverhampton",
+10281,Express and Echo,Newspaper,10281,@ExpressandEcho,,,,,,,,,,"Regional, Local",,"England Regional, Local",Exeter,
+10285,"Express, The (Canterbury-Bankstown Express)",Newspaper,10285,@CB_Express,,,,1,01/01/09,Current,1,01/01/98,Current,Local,,England Local,Chesterfield,
+10286,Falkirk Herald,Newspaper,10286,@falkirk_herald,,,,1,02/12/09,Current,,,,,,,,
+10287,Falmouth Packet,Newspaper,10287,,,,,1,05/15/07,Current,,,,,,,,
+10288,Farming Life,Newspaper,10288,,,,,1,05/10/12,Current,,,,,,,,
+10289,Farnborough News,Newspaper,10289,@FarmingLifeNI,,,,,,,,,,Local,,England Local,Farnborough,
+10290,Faversham News,Newspaper,10290,@FavershamNews,,,,,,,,,,Local,,England Local,Faversham,
+10291,Faversham Times,Newspaper,10291,@FavershamTimes,,,,1,06/11/08,06/11/14,,,,Local,,England Local,Faversham,
+10292,Fenland Citizen,Newspaper,10292,@fenlandcit,,,,1,02/12/09,Current,,,,,,,,
+10293,Fermanagh Herald,Newspaper,10293,@Ferm_Herald,,,,,,,,,,Local,,Northern Ireland Local,County Fermanagh,
+10294,Fermanagh News,Newspaper,10294,,,,,,,,,,,Local,,Northern Ireland Local,County Fermanagh,
+10295,Fife Free Press,Newspaper,10295,@FFP,,,,1,02/11/09,Current,,,,,,,,
+10296,Filey & Hunmanby Mercury,Newspaper,10296,,,,,1,07/01/11,Current,,,,,,,,
+10300,Fleetwood Weekly News,Newspaper,10300,@FleetwoodWeekly,,,,,,,,,,Local,,England Local,Fleetwood,
+10301,Flintshire Chronicle,Newspaper,10301,@FlintshireChron,,,,,,,,,,Regional ,,Wales,,
+10302,Flying Post,Newspaper,10302,@efpmag,,,,,,,,,,Local,,England Local,Exeter,Uncertain. Magazine
+10303,Folkestone Herald,Newspaper,10303,@fstoneherald,,,,1,06/12/08,06/05/14,,,,Local,,England Local,Folkestone,
+10303,Hythe Herald,Newspaper,10395,@fstoneherald,,,,1,06/12/08,01/09/14,,,,Local,,England Local,"Hythe, Kent",Folkstone Herald
+10303,Romney Marsh Herald,Newspaper,10629,@fstoneherald,,,,1,06/12/08,06/17/10,,,,Local,,England Local,New Romney,Folkstone Herald
+10304,Forfar Dispatch,Newspaper,10304,@Forfar_Dispatch,,,,1,05/11/12,Current,,,,,,,,
+10305,Formby Champion,Newspaper,10305,@champnews,,,,,,,,,,Regional,,England Regional,,
+10306,Formby Times,Newspaper,10306,@FormbyTimes,,,,,,,,,,Local,,England Local,Formby,
+10307,Forward,Newspaper,10307,,,,,,,,,,,Local,,England Local,Birmingham,
+10308,Fraserburgh Herald,Newspaper,10308,@brochherald,,,,1,04/29/10,Current,,,,,,,,
+10309,Frome and Somerset Standard,Newspaper,10309,,,,,1,06/12/08,06/05/14,,,,,,,,
+10310,Fulham & Hammersmith Chronicle,Newspaper,10310,@LDNweekly,,,,,,,,,,Local,,England Local,London,
+10311,Gainsborough Standard,Newspaper,10311,@GainsStandard,,,,1,01/29/09,Current,,,,Local,,England Local,Gainsborough,
+10312,Galloway Gazette,Newspaper,10312,@gallgaz,,,,1,02/12/09,Current,,,,,,,,
+10313,Garstang Courier,Newspaper,10313,@GarstangNews,,,,1,02/06/09,Current,,,,Local,,England Local,Garstang,
+10314,Gazette (Essex),Newspaper,10314,,,,,1,01/01/98,Current,,,,,,,,
+10316,Glasgow Now,Newspaper,10316,@topglasgownow,,,,1,01/01/09,Current,,,,,,,Glasgow,
+10317,Glasgow South and Eastwood Extra,Newspaper,10317,,,,,1,05/10/12,Current,,,,,,,Glasgow,
+10318,Glossop Advertiser,Newspaper,10318,,,,,,,,,,,Local,,England Local,Glossop,
+10319,Glossop Chronicle,Newspaper,10319,@newsinglossop,,,,,,,,,,Local,,England Local,Glossop,
+10320,Glossop Gazette,Newspaper,10320,@GlossopGazette,,,,,,,,,,Local,,England Local,Glossop,
+10321,"Gloucester Citizen, The",Newspaper,10321,@GlosCitizen,,,,1,01/01/98,Current,,,,Local,,England Local,Gloucestershire,
+10322,Gloucestershire Echo,Newspaper,10322,@GlosEcho,,,,1,03/01/98,Current,,,,Local,,England Local,Gloucestershire,
+10323,Goole Times,Newspaper,10323,,,,,,,,,,,Local,,England Local,Goole,
+10324,"Goole, Howden, Thorne Courier",Newspaper,10324,,,,,1,02/12/09,12/05/13,,,,Local,,England Local,Goole,
+10325,Grantham Journal,Newspaper,10325,@GranthamJournal,,,,1,01/28/09,Current,,,,Local,,England Local,Grantham,
+10326,Gravesend and Dartford Reporter,Newspaper,10326,@northkentnews,,,,,,,,,,Regional,,England Regional,,
+10327,Gravesend Messenger,Newspaper,10327,@KMGravesend,,,,1,09/25/08,Current,,,,Local,,England Local,Gravesend,
+10328,Great Barr Observer,Newspaper,10328,@GreatBarrObs,,,,1,06/13/08,10/12/12,,,,,,,,
+10329,Great Yarmouth Mercury,Newspaper,10329,@GYMercury,,,,1,07/29/11,Current,,,,,,,,
+10330,Greenock Telegraph ,Newspaper,10330,@greenocktele,,,,,,,,,,Local ,,Scotland Local,,
+10331,Grimsby Telegraph,Newspaper,10331,@GrimsbyTel,,,,1,02/27/98,Current,,,,Local,,England Local,Grimsby and Northern Lincolnshire,
+10333,"Glasgow Guardian, The",Newspaper,10333,@GlasgowGuardian,,,,,,,,,,Local,,Scotland ,,
+10334,Hackney Gazette,Newspaper,10334,@hackneygazette,,,,1,11/11/10,10/11/12,,,,Local,,England Local,London,
+10335,Halesowen News,Newspaper,10335,@halesowennews,,,,1,05/16/07,Current,,,,,,,,
+10336,Halifax Courier,Newspaper,10336,@HXCourier,,,,1,07/07/09,Current,,,,Local,,England Local,Halifax,
+10337,Halstead Gazette,Newspaper,10337,@HalsteadGazette,,,,1,05/15/07,Current,,,,,,,,
+10338,Hammersmith & Kensington Times,Newspaper,10338,,,,,,,,,,,Local,,England Local,London,
+10339,Hampshire Chronicle,Newspaper,10339,@hantschronicle,,,,1,05/16/07,Current,,,,Regional,,England Regional,,
+10340,Hampstead and Highgate Express,Newspaper,10340,,,,,1,11/11/10,Current,,,,Local,,England Local,London,
+10341,Harborough Mail,Newspaper,10341,@HarbMail,,,,1,02/12/09,Current,,,,Local,,England Local,Market Harborough,
+10342,Haringey Advertiser,Newspaper,10342,,,,,,,,,,,Local,,England Local,London,
+10343,Haringey Independent,Newspaper,10343,,,,,1,01/01/98,Current,,,,,,,,
+10344,Harlow Herald,Newspaper,10344,,,,,1,03/24/11,Current,,,,,,,,
+10345,Harlow Scene,Newspaper,10345,@HarlowScene,,,,,,,,,,Local,,England Local,Harlow,
+10346,"Harlow, Epping & Sawbridgeworth Star",Newspaper,10346,@Harlowstar,,,,1,02/22/05,08/08/14,,,,Local,,England Local,Harlow,
+10347,Harrogate Advertiser,Newspaper,10347,@HgateAdvertiser,,,,1,02/13/09,Current,,,,Local,,England Local,Harrogate,
+10348,Harrow & Wembley Observer,Newspaper,10348,,,,,,,,,,,Local,,England Local,London,
+10349,Harrow Informer,Newspaper,10349,,,,,,,,,,,Local,,England Local,London,
+10350,Harrow Leader,Newspaper,10350,,,,,,,,,,,Local,,England Local,London,
+10351,Harrow Times,Newspaper,10351,@Harrow_Times,,,,1,05/16/07,Current,,,,,,,,
+10352,Hartlepool Mail,Newspaper,10352,@HPoolMail,,,,1,08/01/08,Current,,,,Local,,England Local,Hartlepool,
+10353,Harwich and Manningtree Standard,Newspaper,10353,@HarwichStandard,,,,1,05/17/07,Current,,,,,,,,
+10354,Hastings & St. Leonards Observer,Newspaper,10354,@HastingsObs,,,,1,02/11/08,Current,,,,"Regional, Local",,"England Regional, Local",Hastings,
+10356,Haverhill Echo,Newspaper,10356,@haverhill,,,,1,02/12/09,Current,,,,,,,,
+10357,Havering Post,Newspaper,10357,,,,,1,03/10/11,11/08/12,,,,,,,,
+10358,Havering Yellow Advertiser (Romford),Newspaper,10358,,,,,,,,,,,Local,,England Local,London,
+10359,Hawick News,Newspaper,10359,@hawnews,,,,1,02/12/09,Current,,,,,,,,
+10360,Hayling Islander,Newspaper,10360,,,,,1,02/12/09,Current,,,,,,,,
+10361,Hebden Bridge Times,Newspaper,10361,@HebdenBrTimes,,,,1,02/12/09,Current,,,,Local,,England Local,Hebden Bridge,
+10362,Hemel Gazette,Newspaper,10362,@TheGazette_news,,,,1,01/11/09,Current,,,,Local,,England Local,Hemel Hempstead,
+10363,Hemsworth & South Elmsall Express,Newspaper,10363,@HSEExpress,,,,1,02/12/09,Current,,,,,,,,
+10364,Hendon Times,Newspaper,10364,,,,,1,01/01/07,Current,,,,,,,,
+10365,Henley Standard,Newspaper,10365,@henleystandard,,,,,,,,,,Local,,England Local,Henley-on-Thames,
+10366,Herald and Post (Northampton Herald & Post),Newspaper,10366,@NorthamptonUK,,,,1,01/02/98,Current,,,,"Regional, Local",,"England Regional, Local",Luton,
+10368,"Herald Express, The Torquay",Newspaper,10368,@TQHeraldExpress,,,,,,,,,,Local,,England Local,"Torquay (and South Devon), Hemel Hempstead",
+10370,"Herald, The (Harlow)",Newspaper,10370,,,,,,,,,,,Local,,England Local,Harlow,
+10371,Hereford Times,Newspaper,10371,@HTnewsroom,,,,1,05/15/07,Current,,,,Local,,England Local,Hereford,
+10372,Herne Bay Gazette,Newspaper,10372,@HerneBayGazette,,,,,,,,,,Local,,England Local,Herne Bay,
+10373,Herne Bay Times,Newspaper,10373,@TimesHerneBay,,,,1,06/12/08,06/11/14,,,,Local,,England Local,Herne Bay,
+10374,Hertfordshire Mercury,Newspaper,10374,@HertsMercury,,,,1,01/11/05,08/09/14,,,,Local,,England Local,Hertfordshire,
+10375,Herts & Essex Observer,Newspaper,10375,@HertsEssexObser,,,,1,03/03/05,08/15/14,,,,,,,,
+10376,Herts Advertiser,Newspaper,10376,@hertsad,,,,1,03/24/11,Current,,,,Local,,England Local,Hertfordshire,
+10377,Hexham Courant,Newspaper,10377,@hexhamcourant,,,,,,,,,,Local,,England Local,Hexham,
+10378,Heywood Advertiser,Newspaper,10378,@HeywoodNews,,,,,,,,,,Local,,England Local,Heywood,
+10379,Hillingdon Times,Newspaper,10379,@HillingdonTimes,,,,1,05/15/07,Current,,,,,,,,
+10380,Holme Valley Express,Newspaper,10380,,,,,,,,,,,Local,,England Local,Holmfirth,
+10381,Holsworthy Post,Newspaper,10381,@ThePostSeries,,,,,,,,,,Local,,England Local,Holsworthy (Devon),
+10382,Holyhead and Anglesey Mail,Newspaper,10382,@HolyheadMail,,,,,,,,,,Regional ,,Wales,,
+10383,Horncastle News,Newspaper,10383,@NewsHorncastle,,,,1,02/09/09,Current,,,,,,,,
+10384,Hornsey & Crouch End Journal,Newspaper,10384,,,,,,,,,,,Local,,England Local,London,
+10385,Hounslow Borough Chronicle,Newspaper,10385,,,,,,,,,,,Local,,England Local,London,
+10386,Hounslow Guardian,Newspaper,10386,,,,,1,05/18/07,Current,,,,,,,,
+10387,"Hounslow, Chiswick & Whitton Informer",Newspaper,10387,,,,,,,,,,,Local,,England Local,London,
+10388,Hucknall Dispatch,Newspaper,10388,@DispatchDaily,,,,1,10/01/09,Current,,,,Local,,England Local,Hucknall,
+10389,Huddersfield & District Chronicle,Newspaper,10389,,,,,,,,,,,Local,,England Local,Huddersfield,
+10390,Huddersfield Daily Examiner,Newspaper,10390,,,,,1,12/03/07,Current,,,,Local,,England Local,Huddersfield,
+10391,Huddersfield Weekly News,Newspaper,10391,,,,,,,,,,,Local,,England Local,Huddersfield,
+10392,Hull Daily Mail,Newspaper,10392,@hulldailymail,,,,1,03/06/98,Current,,,,Local,,England Local,Kingston upon Hull,
+10393,Hunts Post,Newspaper,10393,@huntspost,,,,1,03/23/11,Current,,,,,,,,
+10394,Hutton Cranswick,Newspaper,10394,,,,,1,05/05/09,Current,,,,,,,,
+10397,Ilford & Redbridge Yellow Advertiser,Newspaper,10397,,,,,,,,,,,Local,,England Local,London,
+10398,Ilford Recorder,Newspaper,10398,@IlfordRecorder,,,,1,05/10/11,Current,,,,Local,,England Local,London,
+10399,Ilkeston Advertiser,Newspaper,10399,@IlkestonTiser,,,,1,02/07/09,Current,,,,,,,,
+10400,Ilkley Gazette,Newspaper,10400,@IlkleyGazette,,,,1,06/27/13,Current,,,,Local,,England Local,Ilkley,
+10401,"Impartial Reporter, The",Newspaper,10401,@impartialrep,,,,,,,,,,Local,,Northern Ireland Local,County Fermanagh,
+10406,Inverurie Herald,Newspaper,10406,@InverurieHerald,,,,1,06/07/10,Current,,,,,,,,
+10408,Isle of Man Today,Newspaper,10408,,,,,1,05/09/12,Current,,,,,,,,
+10409,Isle of Thanet Gazette,Newspaper,10409,@ThanetGazette,,,,1,06/13/08,Current,,,,Local,,England Local,Isle of Thanet,
+10410,Isle of Wight County Press,Newspaper,10410,@iwcponline,,,,,,,,,,"Regional, Local",,"England Regional, Local",Isle of Wight,
+10412,Islington Gazette,Newspaper,10412,@islingtongztte,,,,1,11/11/10,Current,,,,Local,,England Local,London,
+10413,Jarrow and Hebburn Gazette,Newspaper,10413,,,,,1,05/09/12,01/12/14,,,,,,,,
+10414,Johnston Press,Newspaper,10414,@Johnston_Press,,,,1,10/02/03,Current,,,,,,,,
+10415,"Journal, The (Newcastle upon Tyne)",Newspaper,10415,@TheJournalNews,,,,,,,,,,Regional,,England Regional,,
+10416,Keighley News,Newspaper,10416,@KeighleyNews,,,,1,05/16/07,Current,,,,Local,,England Local,Keighley,
+10417,Kenilworth Weekly News,Newspaper,10417,@Kenilworth_news,,,,1,04/24/09,Current,,,,,,,,
+10418,Kensington & Chelsea Informer,Newspaper,10418,,,,,,,,,,,Local,,England Local,London,
+10419,Kent and Sussex Courier,Newspaper,10419,@KSCourier,,,,1,08/26/10,Current,,,,Regional,,England Regional,,
+10420,Kent Messenger,Newspaper,10420,@KM_newsroom,,,,1,09/19/08,Current,,,,Local,,England Local,Maidstone,
+10421,"Kent on Sunday, Kent on Saturday",Newspaper,10421,@KOSMedia,,,,,,,,,,Regional,,England Regional,,
+10423,Kentish Express,Newspaper,10423,@KentishExpress,,,,1,09/25/08,Current,,,,Local,,England Local,"Ashford, Kent, Folkestone, Hythe & Romney Marsh",
+10424,Kentish Gazette,Newspaper,10424,@KentishGazette,,,,1,09/25/08,Current,,,,Local,,England Local,Canterbury,
+10425,Kentish Weeklies,Newspaper,10425,,,,,1,02/02/11,Current,,,,,,,,
+10426,Kidderminster Shuttle ,Newspaper,10426,@ksshuttle,,,,1,01/24/07,Current,,,,Local,Weekly,England Local,Worcestershire,
+10427,Kilburn Times,Newspaper,10427,@bktimes,,,,,,,,,,Local,,England Local,London,
+10428,Kilkenny People,Newspaper,10428,@KKPeopleNews,,,,1,02/13/09,Current,,,,,,,,
+10430,Kingston Guardian,Newspaper,10430,@kingstonnews,,,,1,05/17/07,Current,,,,Local,,England Local,Kingston upon Thames,
+10431,Kirkintilloch Herald,Newspaper,10431,@Kirky_Herald,,,,1,02/12/09,Current,,,,,,,,
+10432,Kirriemuir Herald,Newspaper,10432,@KirrieHerald,,,,1,05/11/12,Current,,,,,,,,
+10433,Knutsford Guardian,Newspaper,10433,@KnutsfordNews,,,,1,05/16/07,Current,,,,Local,,England Local,Knutsford,
+10435,Lancashire Evening Post,Newspaper,10435,@leponline,,,,1,02/08/09,Current,,,,Regional,,England Regional,,
+10436,Lancashire Telegraph,Newspaper,10436,@lancstelegraph,,,,1,05/15/07,Current,,,,Regional,,England Regional,,
+10437,Lancaster and Morecambe Citizen,Newspaper,10437,,,,,1,05/16/07,12/23/08,,,,,,,,
+10438,Lancaster Guardian,Newspaper,10438,@GuardianDigital,,,,1,02/12/09,Current,,,,Local,,England Local,Lancaster,
+10439,Larne Gazette,Newspaper,10439,,,,,,,,,,,Local,,Northern Ireland Local,County Antrim,
+10440,Larne Times,Newspaper,10440,@Larne_Times,,,,1,02/18/09,Current,,,,Local,,Northern Ireland Local,County Antrim,
+10441,Leamington Courier,Newspaper,10441,@leamcourier,,,,1,04/14/08,Current,,,,,,,,
+10442,Leatherhead Advertiser,Newspaper,10442,@leatherheadnews,,,,1,06/12/08,06/05/14,,,,,,,,
+10443,Ledbury Reporter,Newspaper,10443,@LedburyReporter,,,,1,05/16/07,Current,,,,,,,,
+10444,Leeds Express,Newspaper,10444,,,,,,,,,,,Local,,England Local,Leeds,
+10445,Leeds Weekly News,Newspaper,10445,,,,,1,10/01/03,Current,,,,,,,,
+10446,Leek Post and Times,Newspaper,10446,,,,,1,06/11/08,Current,,,,Local,,England Local,Leek,
+10447,Leicester Mercury,Newspaper,10447,@Leicester_Merc,,,,1,11/28/97,Current,1,06/10/99,Current,Local,,England Local,Leicester,More than 1 Twitter
+10447,Leicester Mercury,Newspaper,10448,@LeicsMercury,,,,1,11/28/97,Current,1,06/10/99,Current,Local,,England Local,Leicester,More than 1 Twitter
+10449,Leigh Journal,Newspaper,10449,@leighjournal,,,,1,05/16/07,Current,,,,Local,,England Local,"Leigh, Greater Manchester",
+10450,Leigh Reporter,Newspaper,10450,,,,,1,05/10/12,Current,,,,Local,,England Local,"Leigh, Greater Manchester",
+10451,Leinster Express,Newspaper,10451,@LaoisNews,,,,1,02/18/09,Current,,,,,,,,
+10452,Leinster Leader,Newspaper,10452,@leinsleadernews,,,,1,02/12/09,Current,,,,,,,,
+10453,Leitrim Observer,Newspaper,10453,@LeitrimToday,,,,1,02/13/09,Current,,,,,,,,
+10454,Lewisham & Grenwich Mercury,Newspaper,10454,,,,,,,,,,,Local,,England Local,London,
+10455,Leyland Guardian,Newspaper,10455,@GuardianLeyland,,,,1,02/12/09,Current,,,,Local,Weekly,England Local,Leyland,
+10456,Lichfield Mercury,Newspaper,10456,@LichMercury,,,,1,06/12/08,Current,,,,Local,,England Local,Lichfield,
+10457,Limavady Chronicle,Newspaper,10457,,,,,,,,,,,Local,,Northern Ireland Local,County Londonderry,
+10458,Lincolnshire Echo,Newspaper,10458,@LincsEcho,,,,1,09/11/10,Current,,,,Regional,,England Regional,,
+10459,Linlithgow Gazette (Queensferry Gazette),Newspaper,10459,@JournoandGaz,,,,1,05/10/12,Current,,,,,,,,
+10460,Linlithgowshire Journal & Gazette,Newspaper,10460,,,,,1,02/13/09,Current,,,,,,,,
+10461,Littlehampton Gazette,Newspaper,10461,@LhamptonGazette,,,,1,05/02/12,Current,,,,,,,,
+10462,Liverpool Daily Post,Newspaper,10462,,,,,,,,,,,Local,,England Local,Liverpool,
+10463,Liverpool Echo,Newspaper,10463,@LivEchonews,,,,1,08/01/01,Current,,,,Local,,England Local,Liverpool,
+10464,Llanelli Star,Newspaper,10464,@LlanelliStar,,,,1,09/15/10,Current,,,,Regional ,,Wales,,
+10467,Londonderry Sentinel,Newspaper,10467,@L_Sentinel,,,,1,02/11/09,Current,,,,Local,,Northern Ireland Local,County Londonderry,
+10468,"Londoner, The",Newspaper,10468,,,,,,,,,,,Local,,England Local,London,
+10469,Longford Leader,Newspaper,10469,@Longford_Leader,,,,1,02/12/09,Current,,,,,,,,
+10470,Longridge News,Newspaper,10470,@Longridge_News,,,,1,05/05/09,Current,,,,,,,,
+10471,Loughborough Echo,Newspaper,10471,@loughecho,,,,1,12/03/07,Current,,,,Local,,England Local,Loughborough,
+10472,Loughborough Mail,Newspaper,10472,,,,,,,,,,,Local,,England Local,Loughborough,
+10473,Loughborough Trader Xtra,Newspaper,10473,,,,,,,,,,,Local,,England Local,Loughborough,
+10474,Loughton Guardian,Newspaper,10474,@epping_guardian,,,,,,,,,,Local,,England Local,Loughton,
+10475,Louth Leader,Newspaper,10475,@thelouthleader,,,,1,01/29/09,Current,,,,,,,,
+10476,Lowestoft Journal,Newspaper,10476,@lowjournal,,,,1,07/29/11,Current,,,,,,,,
+10477,Ludlow Advertiser,Newspaper,10477,@ludlowtenbury,,,,1,05/16/07,Current,,,,Local,Weekly,England Local,Ludlow,
+10478,Lurgan Mail,Newspaper,10478,@LurganMailnews,,,,1,02/12/09,Current,,,,Local,,Northern Ireland Local,County Armagh,
+10479,Luton on Sunday,Newspaper,10479,@LutonOnSunday,,,,1,02/03/07,Current,,,,Local,,England Local,Luton,
+10480,Luton Today,Newspaper,10480,,,,,1,04/20/09,Current,,,,,,,,
+10481,Lutterworth Mail,Newspaper,10481,@luttmail,,,,1,05/02/12,Current,,,,,,,,
+10482,Lynn News,Newspaper,10482,@LynnNewsCitizen,,,,1,02/10/09,Current,,,,Regional,,England Regional,,
+10483,Lytham St Annes Express,Newspaper,10483,@lsaexpress,,,,1,05/09/12,Current,,,,,,,,
+10484,"Macclesfield Express, The",Newspaper,10484,@MaccExpress,,,,,,,,,,Local,,England Local,Macclesfield,
+10485,Maidstone Adscene,Newspaper,10485,,,,,1,06/12/08,04/09/09,,,,,,,,
+10489,Maldon and Burnham Standard,Newspaper,10489,,,,,1,04/01/07,Current,,,,,,,,
+10490,Malton & Pickering Mercury,Newspaper,10490,,,,,1,02/11/09,Current,,,,,,,,
+10491,Malton Gazette & Herald,Newspaper,10491,@RyedaleNews,,,,,,,,,,Local,Weekly,England Local,Malton,
+10492,Malvern Gazette,Newspaper,10492,@MalvernGazette,,,,1,05/15/07,Current,,,,,,,,
+10493,Manchester Evening News,Newspaper,10493,@MENnewsdesk,,,,1,03/01/00,Current,,,,Local,,England Local,Manchester,
+10494,Mansfield & Ashfield Chad,Newspaper,10494,,,,,1,12/12/08,Current,,,,,,,,
+10495,Market Drayton Advertiser,Newspaper,10495,,,,,,,,,,,Local,,England Local,Market Drayton,
+10496,Market Rasen Mail,Newspaper,10496,@RasenMail,,,,1,02/10/09,Current,,,,Local,,England Local,Market Rasen,
+10497,Matlock Mercury,Newspaper,10497,@MatMerc,,,,1,03/24/08,Current,,,,,,,,
+10498,Mearns Leader and Kincardineshire Observer,Newspaper,10498,@TheMearnsLeader,,,,1,02/13/09,Current,,,,,,,,
+10499,Medway AdScene,Newspaper,10499,,,,,1,12/11/08,05/20/09,,,,,,,,
+10500,"Medway Messenger, The",Newspaper,10500,@MedwayMessenger,,,,1,09/19/08,Current,,,,Local,,England Local,Medway,
+10501,Melton Times,Newspaper,10501,@meltontimes,,,,1,02/12/09,Current,,,,Local,,England Local,Vale of Belvoir,
+10502,"Mercury, The",Newspaper,10502,,,,,,,,,,,Local,Weekly,England Local,Scarborough and Harlow,
+10503,Mersey Reporter,Newspaper,10503,,,,,,,,,,,Local,,England Local,Liverpool,
+10504,Messenger Newspapers,Newspaper,10504,@MessengerNews_,,,,1,05/16/07,Current,,,,,,,,
+10505,Metro (London),Newspaper,10505,@themetrolondon,,,,,,,,,,Local,,England Local,London,
+10506,Metro (Newcastle),Newspaper,10506,,,,,,,,,,,Local,,England Local,Newcastle upon Tyne,
+10507,Metro (UK),Newspaper,10507,@MetroUK,,http://metro.co.uk/,DMG Media,1,12/05/07,Current,,,,National Tabloid,Daily,Freesheet in Urban Centre,,
+10508,"Metro, Scottish Edition ",Newspaper,10508,@MetroScotland,,,,,,,,,,National – Free ,,Scotland ,,
+10509,Mid Devon Gazette,Newspaper,10509,@MidDevonGazette,,,,1,08/20/13,Current,,,,,,,,
+10510,Mid Devon Star,Newspaper,10510,@MidDevonStar,,,,1,05/15/07,Current,,,,,,,,
+10511,Mid Somerset Series,Newspaper,10511,,,,,1,08/12/10,Current,,,,,,,,
+10512,Mid Sussex Times,Newspaper,10512,@midsussex_times,,,,1,06/02/09,Current,,,,Regional,,England Regional,,
+10513,Mid Ulster Mail,Newspaper,10513,@MidUMail,,,,1,02/05/09,Current,,,,Local,,Northern Ireland Local,"County Londonderry, Tyrone",
+10514,Mid Ulster Observer,Newspaper,10514,,,,,,,,,,,Local,,Northern Ireland Local,"County Londonderry, Tyrone",
+10515,Middleton Guardian,Newspaper,10515,@middguardian,,,,,,,,,,Local,,England Local,"Middleton, Greater Manchester",
+10516,Middlewich Guardian,Newspaper,10516,@middlewichnews,,,,1,05/21/07,Current,,,,,,,,
+10517,Midhurst and Petworth Observer,Newspaper,10517,@mid_pet_obs,,,,1,05/04/10,Current,,,,,,,,
+10518,Midland Independent Newspapers,Newspaper,10518,,,,,1,02/02/98,Current,,,,,,,,
+10519,Midlothian Advertiser,Newspaper,10519,@Mid_Advertiser,,,,1,02/12/09,Current,,,,,,,,
+10520,Midweek Herald,Newspaper,10520,@midweekherald,,,,1,09/14/11,Current,,,,Local,,England Local,Honiton(Devon),
+10521,Milford Mercury,Newspaper,10521,@MilfordMercury,,,,1,05/17/07,Current,,,,,,,,
+10522,Milgavie & Bearsden Herald,Newspaper,10522,@MBHerald1,,,,1,01/16/09,Current,,,,,,,,
+10523,Milton Keynes Citizen,Newspaper,10523,@mk_citizen,,,,1,10/06/08,Current,,,,Local,,England Local,Milton Keynes,
+10525,"Mitcham, Morden & Wimbledon Post",Newspaper,10525,,,,,,,,,,,Local,,England Local,London,
+10526,MK News,Newspaper,10526,@OneMKNews,,,,1,11/29/06,08/13/14,,,,Local,,England Local,Milton Keynes,"Publisher of OneMK, weekly newspaper for Milton Keynes"
+10527,Monday Messeanger,Newspaper,10527,,,,,1,09/22/08,Current,,,,,,,,
+10528,Montrose Review,Newspaper,10528,@montrose_review,,,,1,02/12/09,Current,,,,,,,,
+10529,Morley Observer & Advertiser,Newspaper,10529,@MOAOffers,,,,1,02/11/09,Current,,,,,,,,
+10530,"Morning Star, The",Newspaper,10530,@M_Star_Online,,,,1,07/02/01,08/27/13,,,,National Tabloid,Daily,Tabloid,,
+10531,Morpeth Herald,Newspaper,10531,@Morpeth_Herald,,,,1,02/05/09,Current,,,,,,,,
+10532,Motherwell Times and Bellshill Speaker,Newspaper,10532,@TimesSpeaker,,,,1,02/19/09,Current,,,,,,,,
+10533,Muswell Hill Journal,Newspaper,10533,,,,,,,,,,,Local,,England Local,London,
+10534,Nafferton Today,Newspaper,10534,,,,,1,05/05/09,Current,,,,,,,,
+10535,New Addington Advertiser,Newspaper,10535,,,,,1,06/13/08,06/06/14,,,,,,,,
+10536,Newark Advertiser,Newspaper,10536,@advertisergroup,,,,,,,,,,Local,,England Local,Nottinghamshire,
+10537,Newbury Weekly News,Newspaper,10537,,,,,,,,,,,Local,,England Local,Newbury,
+10539,Newcastle Sunday Sun,Newspaper,10539,,,,,,,,,,,Regional,,England Regional,,
+10540,Newham Recorder,Newspaper,10540,@NewhamRecorder,,,,1,11/17/10,Current,,,,Local,,England Local,London,
+10541,Newmarket Journal,Newspaper,10541,@NKTJournal,,,,1,02/10/09,Current,,,,,,,,
+10542,Newry Reporter,Newspaper,10542,@newryreporter,,,,,,,,,,Local,,Northern Ireland Local,County Down,
+10543,News and Star,Newspaper,10543,@newsandstar,,,,,,,,,,Local,,England Local,Carlisle,
+10544,News Guardian,Newspaper,10544,@guardiannews,,,,1,02/16/09,Current,,,,,,,,
+10545,News Letter (Belfast |News Letter),Newspaper,10545,@News_Letter,,,,1,02/11/09,Current,1,04/01/02,Current,,,Northern Ireland Local,Belfast,Belfast News Letter
+10546,News Post Leader,Newspaper,10546,@newspostleader,,,,1,02/16/09,Current,,,,,,,,
+10547,News Shopper,Newspaper,10547,@NewsShopper,,,,1,01/01/98,Current,,,,,,,,
+10548,"News, The",Newspaper,10548,,,,,1,11/01/10,Current,,,,Local,,England Local,Portsmouth,
+10549,Newtownabbey Times,Newspaper,10549,@nabbeytimes,,,,1,11/17/10,Current,,,,Local,,Northern Ireland Local,County Antrim,
+10550,Newtownards Chronicle,Newspaper,10550,@NArdsChronicle,,,,,,,,,,Local,,Northern Ireland Local,County Down,
+10551,North Belfast News,Newspaper,10551,@NorthBelfastNew,,,,,,,,,,Local,,Northern Ireland Local,Belfast,
+10552,North Devon Gazette,Newspaper,10552,@northdevon24,,,,1,09/14/11,Current,,,,,,,,
+10553,North Devon Journal,Newspaper,10553,@NDJournal,,,,1,03/06/13,Current,,,,,,,,
+10554,North London Journal,Newspaper,10554,,,,,1,05/12/11,10/04/12,,,,,,,,
+10555,North Norfolk News,Newspaper,10555,,,,,1,07/28/11,Current,,,,,,,,
+10556,North Somerset Times,Newspaper,10556,@NSomTimes,,,,1,09/14/11,Current,,,,,,,,
+10557,North Wales Weekly News,Newspaper,10557,@NWWeeklyNews,,,,,,,,,,Regional ,,Wales,,
+10558,North West Evening Mail,Newspaper,10558,,,,,,,,,,,Local,,England Local,Barrow-in-Furness,
+10559,North West London Times,Newspaper,10559,,,,,1,02/02/11,Current,,,,,,,,
+10560,North Yorkshire News,Newspaper,10560,@NrthYorksNews,,,,1,05/10/12,Current,,,,Local,,England Local,North Yorkshire,
+10561,Northampton Chronicle & Echo,Newspaper,10561,@ChronandEcho,,,,1,04/28/09,Current,,,,Local,,England Local,Northampton,
+10563,Northampton Mercury,Newspaper,10563,,,,,,,,,,,Local,,England Local,Northampton,
+10564,Northants Evening Telegraph,Newspaper,10564,,,,,1,02/12/09,Current,,,,,,,,
+10565,Northern Constitution,Newspaper,10565,,,,,,,,,,,Local,,Northern Ireland Local,County Londonderry,
+10566,"Northern Echo, The (North East England)",Newspaper,10566,@TheNorthernEcho,,,,1,02/01/95,Current,,,,Regional,,England Regional,,
+10567,Northumberland Gazette,Newspaper,10567,,,,,1,04/14/08,Current,,,,Local,,England Local,Alnwick,
+10568,Northwich Guardian,Newspaper,10568,@NorthwichNews,,,,1,01/01/70,Current,,,,Local,,England Local,Northwich,
+10570,Nottingham and Long Eaton Topper,Newspaper,10570,,,,,1,12/04/13,Current,,,,,,,,
+10571,Nottingham Post,Newspaper,10571,@Nottingham_Post,,,,1,04/21/97,Current,1,11/13/02,Current,Local,,England Local,Nottinghamshire,
+10572,Nuneaton News,Newspaper,10572,@NuneatonNews,,,,1,07/07/06,Current,,,,,,,,
+10573,Observer & Citizen,Newspaper,10573,,,,,1,02/13/09,Current,,,,,,,,
+10574,"Observer, The",Newspaper,10574,,,,,1,01/01/93,Current,1,01/01/98,Current,National Berliner,Sunday,Broadsheet/Former Broadsheet,,
+10575,Oldham Advertiser,Newspaper,10575,,,,,,,,,,,Local,,England Local,Oldham,
+10576,Oldham Evening Chronicle,Newspaper,10576,,,,,,,,,,,Local,,England Local,Oldham,
+10577,Ormskirk and West Lancashire Advertiser,Newspaper,10577,,,,,,,,,,,Local,,England Local,Ormskirk,
+10578,Ormskirk and West Lancashire Champion,Newspaper,10578,@champnews,,,,,,,,,,Local,,England Local,Ormskirk,
+10579,Oxford Journal,Newspaper,10579,@OxfordJournal,,,,,,,,,,Regional,,England Regional,,
+10580,Oxford Mail,Newspaper,10580,@TheOxfordMail,,,,1,04/11/05,Current,,,,Local,,England Local,Oxford,
+10581,Oxford Star,Newspaper,10581,,,,,,,,,,,Local,,England Local,Oxford,
+10582,Oxford Times,Newspaper,10582,@oxfordtimes,,,,,,,,,,Local,,England Local,Oxford,
+10583,Oxfordshire Guardian,Newspaper,10583,@OxfordGuardian,,,,,,,,,,Regional,,England Regional,,
+10584,Paddington & Westminster Times,Newspaper,10584,,,,,,,,,,,Local,,England Local,London,
+10585,Paisley & Renfrew Extra,Newspaper,10585,,,,,1,07/15/09,Current,,,,,,,,
+10586,Paisley Daily Express ,Newspaper,10586,@PDEofficial,,,,1,12/03/07,Current,,,,Local ,,Scotland Local,,
+10587,Patterdale Chronicle,Newspaper,10587,,,,,,,,,,,Regional,,England Regional,,
+10588,Pembrokeshire (North) County Echo,Newspaper,10588,,,,,,,,,,,Regional ,,Wales,,
+10589,Pembrokeshire Farmer,Newspaper,10589,,,,,1,06/13/07,Current,,,,,,,,
+10590,"Pembrokeshire Herald, The",Newspaper,10590,@PembsHerald,,,,,,,,,,Regional ,,Wales,,
+10591,Penarth Times,Newspaper,10591,@PenarthTimes,,,,1,05/17/07,Current,,,,,,,,
+10592,Pendle Today,Newspaper,10592,@pendlenews,,,,1,05/09/12,Current,,,,,,,,
+10593,"People, The",Newspaper,10593,,,,,1,01/02/94,Current,1,07/05/92,Current,National Tabloid,Sunday,Tabloid,,
+10594,Peterborough Evening Telegraph,Newspaper,10594,,,,,,,,,,,Local,,England Local,Peterborough,
+10595,Peterlee Mail,Newspaper,10595,,,,,1,02/01/10,Current,,,,,,,,
+10596,Peterlee Star,Newspaper,10596,@PeterleeStar,,,,,,,,,,Local,Weekly,England Local,Peterlee,
+10597,Petersborough Today,Newspaper,10597,,,,,1,10/10/06,Current,,,,,,,,
+10598,Petersfield Post,Newspaper,10598,,,,,1,02/11/09,01/22/14,,,,,,,,
+10599,Pickering Gazette & Herald,Newspaper,10599,,,,,,,,,,,Local,Weekly,England Local,Pickering,
+10600,Plymouth Herald,Newspaper,10600,@PlymouthHerald,,,,1,03/10/98,Current,,,,Local,,England Local,Plymouth,
+10601,Pocklington Post,Newspaper,10601,@PockPost,,,,1,02/05/09,Current,,,,,,,,
+10602,Pontefract Express,Newspaper,10602,@PandCExpress,,,,1,02/05/09,Current,,,,,,,,
+10603,"Poole Observer, The",Newspaper,10603,@PooleObserver,,,,,,,,,,Local,,England Local,"Bournemouth, Dorset",
+10604,Portadown Times,Newspaper,10604,@PortadownTimes1,,,,1,02/13/09,Current,,,,Local,,Northern Ireland Local,County Armagh,
+10606,"Press, The (Barnet and Hendon)",Newspaper,10606,,,,,,,,,,,Local,,England Local,London,
+10608,Prestwich and Whitefield Guide,Newspaper,10608,@PWGNews,,,,1,05/18/07,Current,,,,Local,,England Local,Prestwich,
+10609,Pulmans Weekly News,Newspaper,10609,@pulmansweekly,,,,,,,,,,Local,,England Local,Axminster,
+10611,"Racing Post, The",Newspaper,10611,,,,,1,01/22/96,Current,,,,,,,,
+10612,Reading Chronicle,Newspaper,10612,@rdgchronicle,,,,,,,,,,Local,,England Local,Reading,
+10613,Reading Evening Post,Newspaper,10613,,,,,,,,,,,Local,,England Local,Reading,
+10614,Redditch Advertiser,Newspaper,10614,@Redd_Advertiser,,,,1,01/01/70,Current,,,,,,,,
+10615,Redhill and Reigate Life,Newspaper,10615,,,,,1,05/16/07,Current,,,,,,,,
+10616,Reigate Mirror,Newspaper,10616,,,,,1,06/12/08,Current,,,,,,,,
+10617,Repley & Heanor News,Newspaper,10617,,,,,1,02/12/09,Current,,,,,,,,
+10618,"Reporter, The (Archant)",Newspaper,10618,,,,,1,05/09/12,Current,,,,Local,,England Local,Gravesend,
+10619,"Resident, The",Newspaper,10619,,,,,,,,,,,Local,Weekly,England Local,Horsham,
+10620,Retford Times,Newspaper,10620,@Retford_Times,,,,1,06/12/08,Current,,,,Local,,England Local,Retford,
+10621,Retford Trader and Guardian,Newspaper,10621,,,,,1,02/12/09,Current,,,,Local,,England Local,Retford,
+10622,Rhyl Visitor,Newspaper,10622,,,,,,,,,,,Regional ,,Wales,,
+10623,Richmond and Twickenham Times,Newspaper,10623,@richmondtimes,,,,1,05/16/07,Current,,,,Local,,England Local,London,
+10624,Ripon Gazette,Newspaper,10624,@RiponRover,,,,1,05/09/12,Current,,,,Local,,England Local,Ripon,
+10625,Robin Hoods Bay Today,Newspaper,10625,,,,,1,07/31/11,Current,,,,,,,,
+10626,Rochdale Observer,Newspaper,10626,@RochdaleNews,,,,,,,,,,Local,,England Local,Rochdale,
+10627,Romford and Havering Post,Newspaper,10627,,,,,,,,,,,Local,,England Local,London,
+10628,Romford Recorder,Newspaper,10628,@RomfordRecorder,,,,1,05/06/11,Current,,,,Local,,England Local,Romford,
+10630,Romsey Advertiser,Newspaper,10630,@romseyadver,,,,1,05/18/07,Current,,,,Local,,England Local,Romsey,
+10631,Rotherham Advertiser,Newspaper,10631,@rotherhamtiser,,,,,,,,,,Local,,England Local,Rotherham,
+10632,"Royston Crow, The",Newspaper,10632,@roystoncrow,,,,1,03/24/11,Current,,,,Local,,England Local,Royston,
+10633,Rugby Advertiser,Newspaper,10633,@rugbyadv,,,,1,02/12/09,Current,,,,Local,Weekly,England Local,Rugby,
+10634,Rugby Observer,Newspaper,10634,@RugbyObserver,,,,,,,,,,Local,Weekly,England Local,Rugby,
+10635,Runcorn and Widness World,Newspaper,10635,,,,,1,05/16/07,Current,,,,,,,,
+10636,Rutland Times,Newspaper,10636,@therutlandtimes,,,,1,05/02/12,Current,,,,,,,,
+10637,Rye and Battle Observer,Newspaper,10637,,,,,1,02/12/09,Current,,,,,,,,
+10638,Saffron Walden Reporter,Newspaper,10638,,,,,1,03/24/11,Current,,,,,,,,
+10639,Salford Advertiser,Newspaper,10639,@salfordmenmedia,,,,,,,,,,Local,,England Local,Salford,
+10640,Salford City Reporter,Newspaper,10640,,,,,,,,,,,Regional,,England Regional,,
+10641,Salisbury Journal,Newspaper,10641,@journalupdate,,,,1,05/15/07,Current,,,,Regional,,England Regional,,
+10642,Scarborough Evening News,Newspaper,10642,,,,,1,02/12/09,Current,,,,Local,,England Local,Scarborough,
+10645,Scottish Business Insider,Newspaper,10645,,,,,1,12/03/07,Current,,,,,,,,
+10648,"Scottish Express, The (Scottish Daily Express)",Newspaper,10648,@ScotExpress,,http://www.express.co.uk/scotland,Richard Desmond,1,11/28/10,Current,,,,,,,,
+10649,"Scottish Farmer, The",Newspaper,10649,@scottishfarmer,,,,1,11/02/07,11/20/09,,,,,,,,
+10650,Scottish Star,Newspaper,10650,,,,,1,11/27/10,Current,,,,,,,,
+10654,Scunthorpe Telegraph,Newspaper,10654,@ScunTelegraph,,,,1,02/04/98,Current,,,,Local,,England Local,Scunthorpe,
+10655,Seaford Gazette,Newspaper,10655,,,,,,,,,,,Local,,England Local,"Seaford, East Sussex",
+10656,Selby Post,Newspaper,10656,,,,,,,,,,,Local,,England Local,Selby,
+10657,Selby Star,Newspaper,10657,,,,,,,,,,,Local,,England Local,Selby,
+10658,Selby Times,Newspaper,10658,@Selby_Times,,,,1,02/12/09,12/05/13,,,,Local,,England Local,Selby,More than 1 Twitter
+10658,Selby Times,Newspaper,10659,@selbytimesuk,,,,1,02/12/09,12/05/13,,,,Local,,England Local,Selby,More than 1 Twitter
+10660,Selkirk Weekend Advertiser,Newspaper,10660,@theweepaper,,,,1,02/12/09,Current,,,,,,,,
+10661,Sentinel Advertiser,Newspaper,10661,,,,,1,01/22/14,Current,,,,,,,,
+10662,"Sentinel, The",Newspaper,10662,@SentinelStaffs,,,,,,,,,,Local,,England Local,Stoke-on-Trent,
+10663,Sevenoaks Chronicle,Newspaper,10663,@7OaksChronicle,,,,,,,,,,Local,,England Local,Sevenoaks,
+10664,Shankill Mirror,Newspaper,10664,,,,,,,,,,,Local,,Northern Ireland Local,Belfast,
+10665,Sheerness Times Guardian,Newspaper,10665,@TimesGuardian,,,,1,09/25/08,Current,,,,Local,,England Local,Isle of Sheppey,
+10666,Sheffield Star,Newspaper,10666,@SheffieldStar,,,,,,,,,,Local,,England Local,Sheffield,
+10667,Sheffield Telegraph,Newspaper,10667,@shftelegraph,,,,1,04/21/09,Current,,,,Local,,England Local,Stamford and Rutland,
+10668,Sheppey Gazette,Newspaper,10668,@Sheppey_Gazette,,,,1,06/11/08,12/07/11,,,,Local,,England Local,Isle of Sheppey,
+10669,Shields Gazette,Newspaper,10669,@shieldsgazette,,,,,,,,,,Local,,England Local,South Tyneside,
+10670,Shrewsbury Chronicle,Newspaper,10670,@ShrewsburyChron,,,,,,,,,,Local,,England Local,Shrewsbury,
+10671,Shropshire Star,Newspaper,10671,@ShropshireStar,,,,,,,,,,Regional,,England Regional,,
+10672,Sidmouth Herald,Newspaper,10672,@sidmouthherald,,,,1,09/16/11,Current,,,,,,,,
+10673,Sittingbourne and Seppey Adscene,Newspaper,10673,,,,,1,09/05/08,Current,,,,,,,,
+10674,Skegness Standard,Newspaper,10674,@SkegStandard,,,,1,02/02/09,Current,,,,,,,,
+10675,Skelmersdale Champion,Newspaper,10675,@champnews,,,,,,,,,,Regional,Weekly,England Regional,,
+10676,Sleaford Standard,Newspaper,10676,@SleafordSt,,,,1,12/10/08,Current,,,,Local,,England Local,Sleaford,
+10677,Sleaford Target,Newspaper,10677,@SleafordTarget,,,,,,,,,,Local,,England Local,Sleaford,
+10678,Sleights Today,Newspaper,10678,,,,,1,09/01/09,Current,,,,,,,,
+10679,Slough Express,Newspaper,10679,,,,,,,,,,,Local,,England Local,Slough,
+10680,Smallholder,Newspaper,10680,,,,,1,05/16/07,Current,,,,,,,,
+10681,Solihull News,Newspaper,10681,@SolihullNews,,,,1,12/03/07,Current,,,,,,,,
+10682,"Somerset County Gazette, The",Newspaper,10682,@CountyGazette,,,,1,05/15/07,Current,,,,Local,Weekly,England Local,Taunton,
+10683,Somerset Standard and Guardian,Newspaper,10683,,,,,1,06/12/08,Current,,,,,,,,
+10684,South Belfast News,Newspaper,10684,,,,,,,,,,,Local,,Northern Ireland Local,Belfast,
+10685,South Cheshire Mail,Newspaper,10685,,,,,,,,,,,Local,Weekly,England Local,Crewe,
+10686,South London Press,Newspaper,10686,@SthLondonPress,,,,,,,,,,Local,,England Local,London,
+10687,South Wales Argus,Newspaper,10687,@southwalesargus,,,,1,05/15/07,Current,,,,Regional ,,Wales,,
+10688,South Wales Echo,Newspaper,10688,,,,,1,01/01/01,Current,1,01/25/01,Current,Regional ,,Wales,,
+10689,South Wales Evening Post,Newspaper,10689,@SWEveningPost,,,,1,08/13/97,Current,,,,Regional ,,Wales,,
+10690,South Wales Guardian,Newspaper,10690,@SWGuardian,,,,1,05/16/07,Current,,,,,,,,
+10691,South West Farmer,Newspaper,10691,@SouthWestFarmer,,,,1,05/16/07,Current,,,,,,,,
+10692,South Yorkshire Times,Newspaper,10692,@southyorkstimes,,,,1,04/28/09,Current,,,,,,,,
+10694,Southern Reporter,Newspaper,10694,@SReporter,,,,1,02/12/09,Current,,,,,,,,
+10695,Southport Champion,Newspaper,10695,@champnews,,,,,,,,,,"Regional, Local",Weekly,"England Regional, Local",Southport,
+10697,Southport Reporter,Newspaper,10697,@SouthportReport,,,,,,,,,,"Regional, Local",,"England Regional, Local",Southport,
+10699,Southport Visiter,Newspaper,10699,@Visiter,,,,,,,,,,"Regional, Local",,"England Regional, Local",Southport,
+10701,Spalding Guardian,Newspaper,10701,@LincsFreePress,,,,1,07/18/08,Current,,,,,,,,
+10702,Spenborough Guardian,Newspaper,10702,@spenguardian,,,,1,02/12/09,Current,,,,,,,,
+10703,Sports Argus,Newspaper,10703,,,,,1,02/07/98,05/13/06,,,,,,,,
+10704,Sports Mail,Newspaper,10704,,,,,,,,,,,Local,Weekly,England Local,Portsmouth,
+10705,St Albans Observer,Newspaper,10705,,,,,,,,,,,Local,,England Local,Hertfordshire,
+10706,St. Helens Reporter,Newspaper,10706,@sthelensreport,,,,,,,,,,Local,,England Local,St. Helens,
+10707,St. Helens Star,Newspaper,10707,@sthelensstar,,,,1,05/16/07,Current,,,,,,,,
+10708,Stafford & Stone Chronicle,Newspaper,10708,,,,,,,,,,,Local,,England Local,Stafford,
+10709,Staffordshire Newsletter,Newspaper,10709,@StaffsNews,,,,1,09/27/11,Current,,,,,,,,
+10710,"Stage, The",Newspaper,10710,@TheStage,,,,1,01/07/99,12/08/05,,,,,,,,
+10711,Staines Guardian,Newspaper,10711,,,,,1,05/18/07,Current,,,,,,,,
+10712,Staines Informer,Newspaper,10712,,,,,,,,,,,Local,,England Local,London,
+10713,Staines Leader,Newspaper,10713,,,,,,,,,,,Local,,England Local,London,
+10714,Staithes & Hinderwell Today,Newspaper,10714,,,,,1,05/01/09,Current,,,,,,,,
+10715,Stamford Mercury,Newspaper,10715,@Mercury1712,,,,1,02/12/09,Current,,,,Local,,England Local,Stamford and Rutland,
+10716,Star Courier,Newspaper,10716,,,,,,,,,,,Local,,England Local,Farnborough,
+10717,Star Courier Hampshire and Surrey,Newspaper,10717,,,,,,,,,,,Regional,,England Regional,,
+10718,"Star, The",Newspaper,10718,,,,,1,02/02/09,Current,,,,Local,,England Local,Barnsley,
+10719,Stirling Observer,Newspaper,10719,@StirObserver,,,,1,01/28/11,Current,,,,,,,,
+10720,Stockport Express,Newspaper,10720,@stockportnews,,,,,,,,,,Local,,England Local,Stockport,
+10721,Stoke The Sentinel,Newspaper,10721,,,,,1,03/02/98,Current,,,,,,,,
+10722,Stornoway Gazette,Newspaper,10722,@Sygazette,,,,1,02/12/09,Current,,,,,,,,
+10725,Strabane Chronicle,Newspaper,10725,@Strab_Chronicle,,,,,,,,,,Local,,Northern Ireland Local,County Tyrone,
+10726,Strabane Weekly News and Tyrone & Donegal Reporter,Newspaper,10726,,,,,,,,,,,Local,,Northern Ireland Local,County Tyrone,
+10727,Stratford & Newham Express,Newspaper,10727,,,,,,,,,,,Local,,England Local,London,
+10728,Stratford Herald,Newspaper,10728,@HeraldNewspaper,,,,,,,,,,Local,,England Local,Stratford Upon Avon,
+10729,Streatham Guardian,Newspaper,10729,@streathamnews,,,,1,05/17/07,Current,,,,,,,,
+10730,"Streatham, Clapham & West Norwood Post",Newspaper,10730,,,,,,,,,,,Local,,England Local,London,
+10731,Stroud Life,Newspaper,10731,@stroudlife,,,,1,11/23/11,Current,,,,Local,,England Local,Gloucestershire,
+10732,Stroud News and Journal,Newspaper,10732,@stroudnews,,,,1,05/17/07,Current,,,,Local,,England Local,Stroud,
+10733,Suffolk Free Press,Newspaper,10733,@SFPSudbury,,,,1,02/05/09,Current,,,,,,,,
+10736,Sunday Essex,Newspaper,10736,,,,,1,06/14/08,03/06/09,,,,,,,,
+10739,Sunday Independent (South West England),Newspaper,10739,,,,,,,,,,,Regional,,England Regional,,
+10740,Sunday Life,Newspaper,10740,@TheSundayLife,,,,1,02/04/01,Current,,,,,,,,
+10742,Sunday Mercury,Newspaper,10742,@Sunday_Mercury,,,,1,06/28/98,Current,,,,Local,,England Local,Birmingham,
+10745,Sunday Sun,Newspaper,10745,,,,,1,12/03/07,Current,,,,Local,,England Local,Newcastle upon Tyne,
+10750,Sunderland Echo,Newspaper,10750,@SunderlandEcho,,,,1,02/02/09,Current,,,,Local,,England Local,Sunderland,
+10751,Surrey Advertiser,Newspaper,10751,@SurreyAd,,,,,,,,,,Local,,England Local,Guildford,
+10752,Surrey Comet,Newspaper,10752,@SurreyComet,,,,,,,,,,Local,,England Local,Kingston upon Thames,
+10754,Surrey Herald,Newspaper,10754,,,,,,,,,,,Local,,England Local,London,
+10755,Surrey Mirror,Newspaper,10755,@surreymirror,,,,1,08/21/08,Current,,,,Local,,England Local,London,
+10756,Sussex Express,Newspaper,10756,@sussex_express,,,,1,02/13/09,Current,,,,,,,,
+10757,Sutton & Epsom Post,Newspaper,10757,,,,,,,,,,,Local,,England Local,London,
+10758,Sutton Advertiser,Newspaper,10758,@SuttonAd,,,,1,06/13/08,Current,,,,,,,,
+10759,Sutton Coldfield Observer,Newspaper,10759,@SuttonObserver,,,,1,02/06/13,Current,,,,Local,,England Local,Sutton Coldfield,
+10760,Sutton Guardian,Newspaper,10760,@suttonguardian,,,,1,05/17/07,Current,,,,,,,,
+10762,Swindon Advertiser,Newspaper,10762,@swindonadver,,,,1,05/15/07,Current,,,,Local,,England Local,Swindon,
+10763,Swindon Star,Newspaper,10763,,,,,,,,,,,Local,,England Local,Swindon,
+10764,Tameside Advertiser,Newspaper,10764,,,,,,,,,,,Local,,England Local,Tameside,
+10765,Tameside Reporter,Newspaper,10765,@newsintameside,,,,,,,,,,Local,,England Local,Tameside,
+10766,Tamworth Herald,Newspaper,10766,@tamworthherald,,,,1,06/11/08,Current,,,,Local,,England Local,Tamworth,
+10767,"Tauton Times, The",Newspaper,10767,,,,,,,,,,,Local,Weekly,England Local,Taunton,
+10768,Tavistock Times Gazette,Newspaper,10768,,,,,,,,,,,Regional,,England Regional,,
+10769,Teesdale Mercury,Newspaper,10769,@teesdalemercury,,,,,,,,,,Local,,England Local,Durham,
+10770,Teme Valley Times,Newspaper,10770,,,,,,,,,,,Local,,England Local,"Bromyard, Cleobury Mortimer, Leominster, Ludlow, Tenbury Wells",
+10771,Tenby Observer,Newspaper,10771,@tenbyobserver,,,,,,,,,,Regional ,,Wales,,
+10772,Tewkesbury Admag,Newspaper,10772,,,,,1,05/16/07,Current,,,,,,,,
+10775,Thanet Adscene,Newspaper,10775,,,,,1,11/20/08,Current,,,,Local,,England Local,Isle of Thanet,
+10776,Thanet Extra,Newspaper,10776,@ThanetExtra,,,,1,09/19/08,Current,,,,Local,,England Local,Isle of Thanet,
+10777,Thanet Times,Newspaper,10777,,,,,1,06/10/08,10/02/12,,,,Local,,England Local,Isle of Thanet,
+10778,"Thetford, Brandon and Watton Times",Newspaper,10778,,,,,1,07/27/11,Current,,,,,,,,
+10779,Thorne and District Gazette,Newspaper,10779,,,,,1,04/30/09,Current,,,,,,,,
+10780,Thurrock Gazette,Newspaper,10780,@ThurrockGazette,,,,1,05/15/07,Current,,,,,,,,
+10781,Times & Citizen,Newspaper,10781,@TC_BedfordBlues,,,,,,,,,,Local,,England Local,Bedfordshire,
+10782,"Times, The",Newspaper,10782,,,,,1,07/01/85,Current,01/01/00,07/01/85,Current,National Compact,Daily,Broadsheet/Former Broadsheet,,
+10783,"Times, The (Scottish edition) ",Newspaper,10783,,,,,,,,,,,National Broadsheet Scotland,,Scotland ,,
+10784,Tivyside Advertiser,Newspaper,10784,@TivysideA,,,,1,05/16/07,Current,,,,,,,,
+10785,Todmorden News,Newspaper,10785,@TodmordenNews1,,,,1,02/12/09,Current,,,,Local,,England Local,Todmorden,
+10786,Torbay Times Community Newspaper,Newspaper,10786,@torbay_times,,,,,,,,,,Local,,England Local,Torbay (and South Devon),
+10788,"Tottenham, Wood Green and Edmonton Journal",Newspaper,10788,,,,,,,,,,,Local,,England Local,London,
+10789,Tring Today,Newspaper,10789,,,,,1,05/02/12,Current,,,,,,,,
+10790,Tyrone Constitution,Newspaper,10790,@tyrone_con,,,,,,,,,,Local,,Northern Ireland Local,County Tyrone,
+10791,Tyrone Courier,Newspaper,10791,@TyroneCourier1,,,,,,,,,,Local,,Northern Ireland Local,County Tyrone,
+10792,Tyrone Herald,Newspaper,10792,,,,,,,,,,,Local,,Northern Ireland Local,County Tyrone,
+10793,Tyrone Times,Newspaper,10793,@TyroneTimes,,,,1,02/09/09,Current,,,,Local,,Northern Ireland Local,County Tyrone,
+10794,Ulster Gazette,Newspaper,10794,@ulstergazette,,,,,,,,,,Local,,Northern Ireland Local,County Armagh,
+10795,Ulster Herald,Newspaper,10795,@Ulster_Herald,,,,,,,,,,Local,,Northern Ireland Local,County Tyrone,
+10796,Ulster Star,Newspaper,10796,@LisburnStar,,,,1,02/02/09,Current,,,,Local,,Northern Ireland Local,County Antrim,
+10797,Uttoxeter Advertiser,Newspaper,10797,,,,,1,02/26/02,Current,,,,,,,,
+10798,Uxbridge & Hillingdon Leader,Newspaper,10798,,,,,,,,,,,Local,,England Local,London,
+10799,Uxbridge Gazette,Newspaper,10799,,,,,,,,,,,Local,,England Local,London,
+10800,View From Axminster,Newspaper,10800,,,,,,,,,,,Local,Weekly,England Local,Axminster,
+10801,View from Honiton,Newspaper,10801,,,,,,,,,,,Local,,England Local,Honiton(Devon),
+10802,View from Lyme Regis,Newspaper,10802,,,,,,,,,,,Local,Weekly,England Local,Lyme Regis,
+10803,Village Voice,Newspaper,10803,,,,,,,,,,,Local,Monthly,England Local,Vale of Belvoir,
+10804,"Visitor, The",Newspaper,10804,@The_Visitor,,,,1,08/26/09,Current,,,,,,,,
+10805,Wakefield Express,Newspaper,10805,@WakeExpress,,,,1,02/06/09,Current,,,,Local,,England Local,Wakefield,
+10806,Wakefield Express Extra,Newspaper,10806,,,,,,,,,,,Local,Weekly,England Local,Wakefield,
+10808,Walsall Advertiser,Newspaper,10808,@WalsallAdv,,,,1,06/12/08,Current,,,,,,,,
+10809,Walton News & Mail weekly,Newspaper,10809,,,,,,,,,,,Local,,England Local,Walton,
+10810,Wandworth Guardian,Newspaper,10810,@wandsworthnews,,,,1,05/17/07,Current,,,,,,,,
+10811,Wanstead and Woodford Guardian,Newspaper,10811,@WWGuardian,,,,,,,,,,Local,,England Local,London,
+10812,Warminster Journal,Newspaper,10812,,,,,,,,,,,Local,,England Local,Warminster,
+10813,Warrington Guardian,Newspaper,10813,@warringtonnews,,,,1,01/01/70,Current,,,,Local,,England Local,Warrington,
+10814,Warwick Courier,Newspaper,10814,@Warwick_Courier,,,,1,05/02/12,Current,,,,,,,,
+10815,Warwickshire Telegraph,Newspaper,10815,,,,,,,,,,,Regional,,England Regional,,
+10816,Watford Observer,Newspaper,10816,@Observer_Owl,,,,1,05/16/07,Current,,,,Local,,England Local,Hertfordshire,
+10817,Wear Valley Mercury,Newspaper,10817,,,,,,,,,,,Local,,England Local,Durham,
+10818,Weekeneder,Newspaper,10818,,,,,1,12/23/12,Current,,,,,,,,
+10819,Wells Journal,Newspaper,10819,@wellsjournal,,,,1,06/11/08,06/05/14,,,,,,,,
+10820,Welwyn Hatfield Times,Newspaper,10820,@whtimes,,,,1,03/23/11,Current,,,,Local,,England Local,Hertfordshire,
+10821,Wembley & Kingsbury Times,Newspaper,10821,,,,,,,,,,,Local,,England Local,London,
+10822,"West Briton, The",Newspaper,10822,@WestBriton,,,,1,03/25/10,Current,,,,Regional,,England Regional,,
+10823,West Lothian Herald & Post,Newspaper,10823,,,,,1,05/10/12,06/18/12,,,,,,,,
+10824,West Somerset Free Press,Newspaper,10824,@WSFP_newsroom,,,,,,,,,,Local,,England Local,Minehead,
+10825,West Sussex County Times,Newspaper,10825,@wscountytimes,,,,1,05/20/09,Current,,,,,,,,
+10826,West Sussex Gazette,Newspaper,10826,@WSGazette,,,,1,05/22/09,Current,,,,,,,,
+10827,Western Daily Press,Newspaper,10827,@WesternDaily,,,,1,07/01/97,Current,,,,Regional,,England Regional,,
+10828,Western Gazette,Newspaper,10828,@TheWesternGaz,,,,1,06/11/08,Current,,,,Local,,England Local,Yeovil,
+10830,Western Morning News,Newspaper,10830,@WMNNews,,,,1,01/03/98,Current,,,,Local,,England Local,Plymouth,
+10831,"Western Telegraph, The",Newspaper,10831,@WTelegraph,,,,1,05/16/07,Current,,,,Regional ,,Wales,,
+10832,Westmorland Gazette,Newspaper,10832,@gazettenewsdesk,,,,1,05/16/07,Current,,,,Local,,England Local,"Kendal, Cumbria",
+10833,Weston and Somerset Mercury,Newspaper,10833,@WSMERCURY,,,,1,09/15/11,Current,,,,,,,,
+10834,Weston and Worle News,Newspaper,10834,,,,,1,06/01/08,02/12/09,,,,,,,,
+10835,Weston Midweek,Newspaper,10835,,,,,1,09/14/01,Current,,,,,,,,
+10836,Wetherby News,Newspaper,10836,@Wetherby_News,,,,1,05/09/12,Current,,,,Local,,England Local,Wetherby,
+10837,"Wharf, The (Canary Wharf)",Newspaper,10837,@the_wharf,,,,,,,,,,Local,,England Local,London,
+10838,Wharfedale Observer,Newspaper,10838,@wharfeobserver,,,,1,05/17/07,Current,,,,,,,,
+10839,Whitby Gazette,Newspaper,10839,@gazetteinwhitby,,,,1,01/14/09,Current,,,,Local,Weekly,England Local,Whitby,
+10840,Whitchurch Herald,Newspaper,10840,@whit_herald,,,,,,,,,,Local,,England Local,"Whitchurch, Shropshire",
+10841,Whitstable Gazette,Newspaper,10841,@WhitstableKM,,,,,,,,,,"Regional, Local",,"England Regional, Local",Whitstable,
+10843,Whitstable Times,Newspaper,10843,@TimesWhitstable,,,,1,06/01/08,06/11/14,,,,Local,,England Local,Whitstable,
+10844,Widnes Weekly News weekly,Newspaper,10844,@WidnesRuncornWN,,,,,,,,,,Local,,England Local,Widnes,
+10845,Widnes World weekly,Newspaper,10845,,,,,,,,,,,Local,,England Local,Widnes,
+10848,Wigan Reporter,Newspaper,10848,,,,,,,,,,,Local,,England Local,Wigan,
+10849,"Wigan Today (Wigan Observer, Wigan Evening Post)",Newspaper,10849,@WigToday,,,,1,07/24/09,Current,,,,Local,,England Local,Wigan,
+10850,Wight Insight (journal of Isle of Wight Council),Newspaper,10850,,,,,,,,,,,Local,,England Local,Isle of Wight,
+10851,Willesden & Brent Times,Newspaper,10851,,,,,,,,,,,Local,,England Local,London,
+10852,"Wilts & Gloucestershire Standard, The",Newspaper,10852,@WiltsAndGlosStd,,,,1,05/20/07,Current,,,,Local,Weekly,England Local,Cirencester,
+10853,"Wiltshire Gazette and Herald, The",Newspaper,10853,@wiltsgazette,,,,1,05/15/07,Current,,,,Local,,England Local,Wiltshire,
+10854,Wiltshire Times,Newspaper,10854,@wiltshiretimes,,,,1,05/15/07,Current,,,,Local,,England Local,Wiltshire,
+10855,Wimbledon Guardian,Newspaper,10855,@WimbledonNews,,,,1,05/17/07,Current,,,,,,,,
+10856,Winchester Today,Newspaper,10856,@winchestertoday,,,,,,,,,,Local,,England Local,Winchester,
+10857,Winsford Guardian,Newspaper,10857,@winsfordnews,,,,1,05/18/07,Current,,,,,,,,
+10858,Wirral Globe,Newspaper,10858,@WIRRALGLOBENEWS,,,,1,05/15/07,Current,,,,Local,,England Local,Wirral,
+10859,Wirral News,Newspaper,10859,@WirralNews,,,,,,,,,,Local,,England Local,Wirral,
+10860,Wishaw Press,Newspaper,10860,@WishawPress,,,,1,02/02/11,Current,,,,,,,,
+10861,Witney Gazette,Newspaper,10861,@witneygazette,,,,1,05/16/07,Current,,,,,,,,
+10862,WMI Company News,Newspaper,10862,,,,,1,02/01/10,Current,,,,,,,,
+10863,Wokingham Times,Newspaper,10863,@getwokingham,,,,,,,,,,Local,,England Local,Wokingham,
+10864,Worcester News,Newspaper,10864,@worcesternews,,,,1,05/15/07,Current,,,,Local,,England Local,Worcester,
+10865,Worksop Guardian,Newspaper,10865,@WGUNews,,,,1,02/05/08,Current,,,,Local,,England Local,Worksop,
+10866,Worksop Trader,Newspaper,10866,,,,,,,,,,,Local,,England Local,Worksop,
+10867,Worthing Herald,Newspaper,10867,@Worthing_Herald,,,,1,02/19/09,Current,,,,,,,,
+10868,Wrexham Chronicle,Newspaper,10868,,,,,,,,,,,Regional ,,Wales,,
+10869,Wrexham Evening Leader,Newspaper,10869,,,,,,,,,,,Regional ,,Wales,,
+10870,Wythenshawe World,Newspaper,10870,@wworld,,,,,,,,,,Regional,,England Regional,,
+10871,Yeovil Express,Newspaper,10871,,,,,1,05/15/07,Current,,,,,,,,
+10872,York Press (The Press),Newspaper,10872,@yorkpress,,,,1,05/15/07,Current,,,,"Regional, Local",,"England Regional, Local",York,
+10873,Yorkshire Evening Post,Newspaper,10873,@LeedsNews,,,,1,03/15/01,Current,,,,Local,,England Local,Leeds,
+10874,Yorkshire Post,Newspaper,10874,@yorkshirepost,,,,1,03/26/01,Current,,,,Local,,England Local,Leeds,
+10876,Yorkshire Reporter,Newspaper,10876,,,,,,,,,,,National Tabloid,Daily,Freesheet in Urban Centre,,
+10877,Your Ashford,Newspaper,10877,,,,,,,,,,,Local,,England Local,"Ashford, Kent",
+10878,Your Deal,Newspaper,10878,,,,,,,,,,,Local,,England Local,Deal,
+10879,Your Dover,Newspaper,10879,,,,,,,,,,,Local,,England Local,Dover,
+10880,Your Leek Paper,Newspaper,10880,,,,,1,01/31/07,11/21/13,,,,Local,,England Local,Leek,
+10881,Your Local Guardian,Newspaper,10881,@localguardian,,,,1,01/01/98,Current,,,,,,,,
+10882,Your Maidstone,Newspaper,10882,,,,,,,,,,,Local,,England Local,Maidstone,
+10883,Your Medway,Newspaper,10883,,,,,,,,,,,Local,,England Local,Medway,
+10884,Your Sandwich,Newspaper,10884,,,,,,,,,,,Local,,England Local,Sandwich,
+10885,Your Shepway,Newspaper,10885,@yourshepway,,,,,,,,,,Local,,England Local,Folkestone,
+10886,Your Swale,Newspaper,10886,,,,,,,,,,,Local,,England Local,Faversham,
+10887,Your Thanet,Newspaper,10887,,,,,,,,,,,Local,,England Local,Isle of Thanet,
+10888,Stourbridge News,Newspaper,10888,@StarStourbridge,,,,1,05/15/07,Current,,,,,,,,More than 1 Twitter
+10888,Stourbridge News,Newspaper,10889,@StourbridgeNews,,,,1,05/15/07,Current,,,,,,,,More than 1 Twitter
+10890,Thame Gazette,Newspaper,10890,@thame_gazette,,,,1,04/30/09,Current,,,,,,,,More than one Twitter
+10890,Thame Gazette,Newspaper,10891,@thethamegazette,,,,1,04/30/09,Current,,,,,,,,More than one Twitter
