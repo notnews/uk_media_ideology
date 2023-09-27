@@ -5,7 +5,7 @@ Attempts at quantifying media ideology have generally taken one of two routes. S
 
 * [Data](data/)
 	* UK Media text data at: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VZ8DB3
-	* Tweet text data at: 
+	* Tweet text data at: https://doi.org/10.7910/DVN/JKOH3E
 	* 
 * [Scripts](scripts/)
 
