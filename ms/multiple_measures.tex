@@ -1,0 +1,271 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[titletoc,title]{appendix}
+\usepackage{color}
+\usepackage{booktabs}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\definecolor{dark-red}{rgb}{0.75,0.10,0.10}
+\definecolor{dark-blue}{rgb}{0.1,0.1,0.8}
+\usepackage[margin=1in]{geometry}
+\usepackage[linkcolor=dark-red,
+			colorlinks=true,
+			urlcolor=blue,
+			pdfstartview={XYZ null null 1.00},
+			pdfpagemode=UseNone,
+			citecolor={dark-blue},
+			pdftitle={Strength in Numbers}]{hyperref}
+%\usepackage{biblatex}
+\usepackage[utf8,latin1]{inputenc}
+\usepackage{longtable}
+
+\usepackage[multiple]{footmisc}
+
+\usepackage{url}
+\usepackage{setspace}
+\usepackage{indentfirst}
+
+
+\usepackage{multibib}
+\newcites{sec}{Other Sources}
+\usepackage{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\geometry{letterpaper}               % This is 8.5x11 paper. Options are a4paper or a5paper or other...
+
+\usepackage{graphicx}                % Handles inclusion of major graphics formats and allows use of
+\usepackage{amsfonts,amssymb,amsbsy}
+\usepackage{amsxtra}
+
+\usepackage{natbib}
+
+\usepackage{verbatim}
+
+\setcitestyle{round,semicolon,aysep={},yysep={;}}
+
+\usepackage{setspace}		     % Permits line spacing control. Options are \doublespacing, \onehalfspace
+\usepackage{sectsty}		     % Permits control of section header styles
+\usepackage{lscape}
+
+\usepackage{fullpage}		%1-inch margins
+\usepackage{multirow}
+\usepackage{rotating}
+\setlength{\parindent}{3em}
+
+\usepackage[T1]{fontenc}
+\usepackage{bm}
+\usepackage{libertine}
+
+\usepackage{chngcntr}
+
+% tt font issues
+% \renewcommand*{\ttdefault}{qcr}
+\renewcommand{\ttdefault}{pcr}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+\usepackage{xr}
+\externaldocument{../tabs/text/validation.tex}
+
+\usepackage{lscape}
+\renewcommand{\textfraction}{0}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\bottomfraction}{0.95}
+\renewcommand{\floatpagefraction}{0.40}
+\setcounter{totalnumber}{5}
+\makeatletter
+\providecommand\phantomcaption{\caption@refstepcounter\@captype}
+\makeatother
+
+\title{Strength in Numbers: Multiple Measures of \\Media Ideology\footnote{We thank Anjie Fang and Tony Hirst for scraping the Twitter data, and Matt Blackwell for offering useful comments.}}
+
+\author{Gaurav Sood\thanks{Gaurav is a data scientist. He can be reached at: \href{mailto:gsood07@gmail.com}{\texttt{gsood07@gmail.com}}.} \and Philip Habel\thanks{Philip Habel is Senior Lecturer in Politics at the School of Social and Political Sciences at the University of Glasgow. He can be reached at \href{mailto:philiphabel@gmail.com}{philiphabel@gmail.com}}.}
+
+\begin{document}
+\maketitle
+
+\begin{center}
+\vspace{1cm}\textbf{NB:} Work in progress. Please ask the authors before citing.\\\vspace{1cm}
+\end{center}
+
+
+\begin{comment}
+
+setwd(paste0(basedir, "uk_media_ideology/ms/"))
+tools::texi2dvi("multiple_measures.tex", pdf=TRUE, clean=TRUE)
+setwd(basedir)
+
+\end{comment}
+
+\begin{abstract}
+
+\noindent Attempts at quantifying media ideology have generally taken one of two routes. Scholars have either exploited the similarity between phrases used by the news media and the politicians, or they have exploited the differences in composition of the audiences. We forgo the conventional reliance on one set of cues. Instead, we pool both text and audience based measures to estimate the ideological location of a number of media sources in the UK. The UK presents an appropriate environment for carrying out our research given ideology of members of parliament cannot be simply gotten via voting records. We combine corpora of parliamentary speech and party manifestos with Twitter data to produce more reliable measures of news media ideology and insight into differences between the two metrics.
+\end{abstract}
+
+\newpage
+\doublespacing
+
+According to Edmund Burke, the news media's capacity to hold the ear of the public makes it an equal partner in a democracy, a veritable ``fourth estate'' \citep{carlyle2003heroes}.  If power is what makes the news media an equal shareholder, it is its independence, and how dutifully it fulfills its responsibility, that explains its contribution to the success of a democracy. If the media favors one party (or ideological position) over another, its capacity to hold the politicians accountable---by informing the public about the functioning of the government---is necessarily diminished \citep[see, for e.g.,][]{larcinese2011}. And if the media doesn't present information on all sides of an issue, or cover candidates and elected officials fairly, public opinion may skew toward suboptimal alternatives.
+
+Such concerns have led to a large literature on the measurement and impact of various kinds of bias in the news media. Extant research suggests that the news media disproportionately focuses on `negative' news, for e.g., coverage of declines in stock market outstrips coverage of gains \citep{goetzmann2016crash}, that local news media fixates on violent crime ---share of local news' coverage devoted to violent crime is manifolds actual share of violent crime \citep{gross2006covering}, and that local news exhibits racial bias---some local news media outlets show black criminals at higher rates than at which they are arrested \citep{dixon2000overrepresentation}. Research also suggests that such biases influence people's voting and policy preferences \citep[see, for e.g.,]{gilens2009americans, gilliam2000prime}.
+
+More recently, the rise in elite and mass polarization in the US and the UK \citep{mccarty2016polarized, iyengar2012} has led to an increase in accusations of partisan bias \citep{ladd2011}. And while accusations of bias can't always be taken at face value, given the ubiquity of `sidedness'-biases \citep{vallone1985hostile}, the depth of concern has been severe enough to foment inquiry. As a result, a growing literature attempts to measure media bias, and impact of consumption of biased media on voting decisions, policy opinions, and representation \citep[see, for e.g.,][]{groseclose2005, gentzkow2010, dellavigna2007}. The literature has taken greater urgency post studies suggesting that biased media can have a tangible impact on vote shares \citep{dellavigna2007, martin2014}.
+
+Hitherto, most of the attempts at measuring partisan bias have fallen into two camps. The first assumes that elected officials hold ideological positions, and that their voting records and speech reveal these positions. Armed with the speech of members of Congress, scholars turned to news sources to examine the similarity of their communication to that of politicians. If Republicans, for example, use the phrase `death tax' instead of `estate tax' more than say Democrats, we learn something about the ideology of a news media outlet that exhibits the same pattern \citep[e.g.,][]{gentzkow2010,groseclose2005}.
+
+A second camp uses audience composition to understand bias. The assumption here is that a more liberal (conservative) audience will gravitate toward more liberal (conservative) news sources. Early work in this area was based principally on survey evidence, with respondents being asked questions about their own ideology and then the frequency at which they watch news channels or programs \citep[see][for a recent example]{stroud2011}. More recently, scholars have taken advantage of behavioral measures, including patterns of following media outlets on social media. If a news outlet attracts liberal (conservative) followers, then one can estimate media slant, and order the ideology of news outlets accordingly \citep{gentzkow2011, barbera2016}.
+
+In this paper, we forgo the typical strategy of using just one source of information, and instead rely on multiple sources. We do so for two reasons: a) to build more reliable measures, b) to build more granular measures---measures by `topic.' We pool both text and audience based measures to estimate ideological location of a large set of media sources in the United Kingdom, an interesting and novel context for two reasons. The UK, with its particularly diverse and rich media environment, featuring both publicly funded and commercial media organization, numerous broadsheet publications, and tabloid presses, not to mention local media outlets, provides a great case study. And secondly, it is a country where politician's votes carry little ideological information beyond party due to whipping. We estimate the ideology of a large set of media sources using a large novel text corpora of UK news media---we have crawled more than 2 million pages---and data on Twitter followers of both politicians and media outlets. We present insights into how slant of news sources relates to audiences in the UK.
+
+\section*{Assessing Media Ideology}
+
+Accusations of political slant against the news media are common. And some scholars have exploited these perceptions of bias to measure the ideology of news media \citep{dilliplane2011all, dilliplane2014activation}. Perceptions, however, do not always capture reality, particularly where media bias is concerned. A great deal of research shows that people tend to evaluate the credibility and evenhandedness of a piece of information based on whether or not it is congenial to their prior attitudes---rating uncongenial information as less reliable and more skewed than congenial information \citep[see, for e.g.,][]{vallone1985hostile, lord1979biased, khanna2015}. Unsurprisingly, thus, a large share of the variation in ratings of news media ideology is explained by rater's partisanship \citep{sood2016}.
+
+Given the problems with the use of perceptions of media organizations' ideology, many scholars have forgone them. Instead, some rely on exploiting the audience composition. The theory goes that in a free capitalist media system, people's choices reflect their preferences. Thus, based on self-reports of what news media people consume, we could use the proportion of audience of a media outlet that is Republican as an indicator of its ideology. But serious concerns remain about reported consumption---people tend to greatly overstate the extent to which they watch both partisan and non-partisan news \citep{prior2013media}. In lieu of these concerns, some scholars derive audience metrics from passive observation of media consumption \citep{flaxman2014}.
+
+But even if we have a perfect measure of the audience, we cannot simply assume a one-to-one relationship between audience' partisanship (or ideology) and their choice to consume news from a particular outlet. The relation between viewership and preferences is complex \citep{sood2016}. For instance, people's viewing behavior can be affected by small changes in convenience \citep{martin2014}. To address this particular critique, others have used more complex structural models linking behavior to preferences (and ideological locations) \citep{gentzkow2011, barbera2016}.
+
+The basic structural model linking news media choices to ideological preferences includes a utility function that is sensitive to the distance between the news media and person's ideology. Such a structural model has some grounding in psychology. People like to consume ideologically congenial information because there are psychological costs to consuming messages uncongenial to their existing political beliefs \citet{festinger1957}. Typically, the loss to utility as a result of consuming information different from the ideal point is taken to be quadratic \citep[see, for e.g.,][]{gentzkow2011}. \citet{barbera2015} and \citet{barbera2016} add to this standard model in three ways: a) limit the data to politically interested people---people whose news media consumption is more sensitive to ideology \citep{iyengar2009}, b) validate the model and the choice of the subset using a training set (Congress) for which the ideology is known, and c) allow for fixed effects and other covariates, like location, number of subscribers, etc. to regress out other reasons why someone may subscribe to a news outlet. We opt for this particular strategy as one of the ways to measure ideology of the news media in the UK.
+
+Estimating ideology based on audience composition is but one way of measuring ideology of the news media. Another promising way is systematic analysis of text. To that end, others have exploited expressed opinions on issues---positions expressed by newspapers on editorial pages to scale or score them \citep{ho2008,puglisi2011,puglisi2015}. For example, \citep{habel2012} uses editorial positions by the \emph{New York Times} and \emph{Wall Street Journal} on the same votes used by the ADA to scale members of Congress over a 50 year period. Here the limitation is that the ideology of the editorial page may be quite distinct from bias in news coverage---for example, the New York Times is relatively moderate in its news coverage \citep{gentzkow2010} while offering a distinctly liberal voice on its editorial pages \citep{habel2012}---and editorial positions are both rare and self-selected.
+
+To sidestep the issues with expressed positions, \citet{groseclose2005} devised an innovative indirect approach to measuring media bias. Members of Congress give speeches in Congress. And during these speeches, politicians reference think tanks. And some of the think tanks that are referenced have distinct ideological positions, measures of which can be readily obtained from the interest group, Americans for Democratic Action (ADA). \citet{groseclose2005} use these think tank citations to derive a relationship between think tank citations and ideology. And then use that relationship to impute ideology of media outlets, which also cite think tanks. Building on \citet{groseclose2005}, \citet{gentzkow2010} look at broader language use, and impute ideological scores for mass media accordingly. A closer inspection of some of the models suggests that while the models are very good at discriminating across parties, they are poor at discriminating within parties \citep{barbera2016, gentzkow2015measuring}. Additional challenges associated with these indirect methods include discriminating between slant and agendas \citep[see, for e.g.,][]{quinn2010}. However, we pool insights gleaned from these models with audience based models in an attempt to build more reliable and more granular estimates.
+
+\section*{The British Context}
+
+The UK has a liberal media system \citep{hallin2011comparing}. Like the US, the UK features a profit-oriented media with low levels of government regulation, and independence from political parties \citep{hallin2004}. Yet there are several features that distinguish it from the US. The UK is particularly well known for its subsidized and regulated broadcast outlet, the British Broadcasting Corporation (BBC), which is often the focus of both public concern and scholarly work investigating bias given the potential for government's role in influencing what is broadcast. Beyond the BBC, there exists a loosely regulated and profit-oriented broadcast and print media. The print outlets range from the widely respected broadsheets, such as \textit{The Telegraph} (associated with conservative views, referred to by its critics as ``The Torygraph"), \textit{The Guardian} (its putative liberal counterpart), \textit{The Times of London} (understood to be more middle of the road), to outlets carrying more soft news, such as \textit{The Daily Mail}, and \textit{The Sun}, the most widely circulated newspaper. Beyond national broadcast channels and presses, there are also regional ones---including, for example, counterparts with names such as \textit{Scottish Television} (STV) in contrast to the national \textit{Independent Television} (ITV), or \textit{The Scottish Sun} to \textit{The Sun}. Aside from these is an abundance of local newspapers. (For a helpful overview of the British media, see \citet{eldridge1997}.)
+
+A variety of concerns naturally attach to liberal media systems. At one end, there are worries that profit-maximizing businesses will replace `hard news' with `news' that sells--- sensationalist stories, horse race coverage, etc. \citep{graber2014}. At the other end, there are worries that what little hard news is there will carry the `profit-maximizing' slant \citep{gentzkow2010}. And the UK is immune to neither of these concerns. In this article, we focus on concern about ideological slant. It is a worry that has a long history. For instance, for more than 40 years, scholars at the University of Glasgow have been conducting studies of language use by media, assigning liberal or conservative values to word choices (conceptually in like manner to dictionary methods that have in recent years become widespread in political communication \citep{young2012}), with the Glasgow group finding evidence of bias toward those wielding political and economic power \citep{glasgow1976, glasgow1980, glasgow1982}.
+
+The other British attribute relevant to our research is its politics. In the US, preferences of both the politicians and the mass public are well-explained by a single left-right dimension (see, \citealp{poole2007,clinton2004,jessee2009,tausanovitch2013}). In the UK, politics is more complex, particularly given the presence of multiple parties voices their own issues and interests. Aside from the conventional left-right parties---Labour and Conservatives (``Tories'')--that have dominated British politics for decades, recently, a number of additional parties have gained prominence, including the Liberal Democrats (who were in coalition with the Conservatives prior to the 2015 election), and non-establishment parties such as the SNP (Scottish Nationalist Party), and UKIP (UK Independence Party). The SNP, with one of its principal tenets surrounding independence for Scotland, emerged as a force in national politics in the wake of the 2015 General Election, capturing a startling 56 of the 59 Scottish seats in Parliament, while UKIP attracted 12.6\% of the vote in 2015, and was a leading force behind the 2016 Brexit vote--Britain's successful referendum on exiting the European Union. Beyond these, Parliament has representation from prominent regional parties including those in Northern Ireland (Democratic Unionist and Sinn F\'{e}in), and Wales (Paid Cymru). Despite the diverse set of parties and their interests, the left-right dimension remains the central fulcrum of British politics. And our aim in this paper is to estimate position on the conventional left-right axis of politics.
+
+Next, we describe our measurement models and our data.
+
+\section*{Measuring Ideology on Social Media}
+
+Of the various ways we can learn about ideology from the social media, as we note above, following \citet{barbera2015, barbera2016}, we opt for exploiting the follower network. We assume that politically interested people on social networks tend to follow ideologically proximate news sources. And assume that the loss in utility from following an outlet is a quadratic function of the Euclidean ideological distance between the person and the outlet. Letting $i$ enumerate users, and $j$ media outlets, and letting $\theta_i\in\mathbb{R}$ denote the ideal point of the follower $i$, $\phi_j\in\mathbb{R}$ the ideal point of the media outlet $j$, $\alpha_j$, the baseline probability of following media outlet $j$, $\beta_i$ a user-specific parameter that accounts for systematic user level variation, and letting $\gamma$ be the normalizing constant, the final model takes the following form:
+
+\begin{equation}
+\label{eq:obj}
+\underset{y_{1,\ldots,J}}\argmax \left[\sum_{j=1}^J \alpha_j(y_j) - \beta_{i}(y_j) - y_j(\gamma || \theta_i - \phi_j||^2)\right]
+\end{equation}
+
+Like \citet{barbera2016}, given the size of the follower network, rather than estimate the spatial model directly, we instead use correspondence analysis \citep{greenacre1984,greenacre2010}, which approximates the maximum likelihood solution for a one-dimensional spatial model \citep{ter1985}.
+
+Next, we apply this model the model to the follower networks of politicians and media sources. We obtained the Twitter handles of politicians in two ways. First, we scraped the list of all current MPs who use Twitter, 573 of the 650, from \emph{TweetMinister}. For MPs serving from the period following the 2010 general election to the 2015 general election, we located Twitter handles manually. This gave us an additional 61 Twitter handles for a total of 634. Armed with these Twitter handles, using the Twitter REST API, we collected the follower networks.
+
+Our Twitter handles for media outlets and journalists were gathered in several ways. For newspapers, we began with a list of newspapers that publish regular editions, including both nationally circulating outlets (both ``broadsheets" such as \emph{The Guardian} and ``tabloids" such as \emph{The Sun}) and regional and local newspapers. We then harvested their Twitter accounts, either directly from newspaper websites, or manually using Twitter searches. For our collection of 855 outlets, we located 570 Twitter accounts. For television news providers, we included the national news service providers which included BBC News; BBC Newsnight; BBC Question Time; BBC Daily Politics Show; Channel 4 News; ITV News; Sky; and STV News. We collected their Twitter accounts using Twitter searches. We also included Twitter handles for radio news providers, which included \emph{BBCs Radio 4} \emph{Today} and \emph{PM}; \emph{BBC World Service}; and \emph{Leading Britain's Conversation}. 
+
+For journalists working for both print and broadcast media, we turned to the source \emph{Journalisted}, a website run by the Media Trust Standard that provides a directory of journalists as a public service. Here we located the names of what we perceived as active and potentially influential journalists, defined as those who published at least once per week according to statistics available through Journalisted. We then turned to Twitter searches to collect the handles of these writers. We located 306 journalists, and of these, we found 291 Twitter accounts. That 95 percent of our journalists use Twitter also testifies to the utility of social media as a tool for practitioners in the media field, and also for scholars in understanding questions in political communication. In total, then, we have 871 Twitter media accounts.
+
+For the Twitter follower network, using the Twitter Rest API, we filtered those who were within the UK and who were followed at least 1 MP and 2 media outlets or journalists. Following an MP and two media accounts not only signals news and political interest on the part of the Twitter user, but these followers allow us to estimate measures of bias for the the media as we described above. Of our followers, to wean out defunct accounts, we further subset on those who had tweeted at least once in the past three months. From the XXXX followers of our 871 media accounts from which we began, we were left with 399,380 followers in our filtered set. Next, we created an adjacency matrix using this filtered set, and estimated the model.
+
+To validate the model, we check its performance among a set whose partisan affiliations (and $\sim$ ideology) we know---politicians. Figure \ref{fig:fig1} shows box-plots of ideological location of parliamentary members by party. Our findings are concordant with expectations. On a scale where higher values denote more conservative ideology, The Conservatives are well above 0, with a median above 2 on our scale and the SNP, the most liberal of three parties, have a median below -3. Labour is also considerably to the left to Conservatives, with a median located below -1.
+
+\begin{figure}[!htbp]
+\centering
+\caption{Distribution of Ideology of Politicians by Party}
+\includegraphics[scale=.75]{../figs/parl_box.pdf}
+\label{fig:fig1}
+\end{figure}
+
+\subsection*{Measuring Ideology Using Speech}
+
+To estimate a model of how speech relates to ideology, we use parliamentary speech as training data. Compared to the US, the UK has two major limitations. Firstly, because of whipping, votes by members of parliament do not convey much information beyond party affiliation. Thus, we can only learn about association between words and party. Secondly, the UK has multiple parties that cannot be cleanly aligned on the left-right axis. To account for that, we ignore speeches by members of any other party than Labour and Conservatives.
+
+Our legislative speech data derive from two sources. First, we include 209,871 unique speeches by Labour and Conservative MPs from the period July 7, 2011 to March 11, 2014, available through the \textit{Digging into Linked Parliamentary Data} project \citep{marx2009advanced}.\footnote{Data are available from: \url{http://search.politicalmashup.nl/about.html}.} Not surprising, members of the Cabinet were frequent speakers, with Prime Minister David Cameron recording 5983 unique speeches. In contrast the leader of the Labour party, Ed Miliband, spoke in 914 instances. Second, like \citet{gentzkow2015measuring}, we collect Robert's Rules of Order \citep{henry2011robert}.
+
+Our news corpora has over 7 million articles covering over 400 media sources between 2005 to 2015. We limit ourselves to news sources that publish in English, and for which we have more than 1000 transcripts since 2011. We further limit ourselves to data from 2010 and beyond from these sources. This leaves us with 2,742,735 transcripts from 255 sources. (See \ref{si_media_sum} for a complete list of media sources, the date ranges and number of transcripts per media source.)
+
+We start with the standard text preprocessing stems of lemmatizing, removing `stop words', and punctuation, losing all words less than 2 characters long, and converting all the words to lower case. We further assume a 1-, 2- Markov model of language, storing just frequency of bigrams and trigrams and removing order information. Next, as a way to get rid of parliamentary language, we remove all bigrams and trigrams that are part of Robert's Rules of Order. Since we plan to use the data to predict ideology of the news data, we take an additional step of removing bi- and tri-grams that don't exist in our news database. (See \citet{gentzkow2010} and \citet{martin2014}, among others who have used similar assumptions in modeling similar text.)  Next, we split the data into a test-set (20\%) and a training-set (80\%). Using these bigrams and trigrams, we estimated a Elastic Net regression \citep{zou2005regularization}, cross-validating to tune the parameter ($\lambda$).
+
+\begin{align}
+   \hat{\beta} = \text{arg} \min_{\beta} \lvert\lvert y - X\beta \rvert\rvert^2 + \lambda_2 \lvert\beta\rvert^2 + \lambda_1 \lvert\beta\rvert
+\end{align}
+
+Using Elastic Net, we achieved an out-of-sample precision of .74 (see Table \ref{tab:text_validation}). The top 100 predictors of Labour and Conservative speech are listed in \ref{si_top100}.  
+
+\let\center\empty
+\let\endcenter\relax
+\begin{center}
+\input{../tabs/text/validation.tex}
+\end{center}
+We used this trained model to predict the ideology of the news sources. 
+
+\section*{Results}
+
+We start by plotting social network based estimates of ideology of a few prominent news organizations (see Figure \ref{fig:fig2}). All the prominent outlets we plot lie between the party medians, those a majority are slightly closer to the Labour party's median than the Conservative party. The median of the social network based ideology estimates of all the media sources in our data is also closer to the Labour median than the Conservative median (see Figure \ref{fig:fig4}). The results are consistent with \citet{barbera2016}, who find that American media outlets tend to lean toward the Democratic Party. The ordering of the prominent media outlets, if not the location, is consistent with their reputation. For e.g., Guardian is the closest to Labour, and well left of \emph{The Daily Mail} or the \emph{The Express}. Scaling text data offers similar insights. Our text based estimates put Guardian to the left of \emph{The Daily Mail} or the \emph{The Express}. 
+ 
+Next, we plotted accounts within various media companies (see Figure \ref{fig:fig3}). Like \citet{barbera2016}, we find intra-outlet ideological heterogeneity. However, it is more muted than the US, where the ideological spread is much bigger. In the UK data, as one can see, estimates are, for the most part, between -1 and 1 on the x-axis, right in the middle of the Labour and Conservative medians. Thus journalists (or other accounts) for our media outlets are not typically as conservative as the median Tory, nor as liberal as the median Labour Party member, or certainly the SNP median.  Based on the data, the \emph{Economist} offers the greatest ideological spread. 
+
+\begin{figure}[!htbp]
+\centering
+\caption{Distribution of Journalist Ideology by Outlet}
+\includegraphics[scale=1]{../figs/line_plot_aug.pdf}
+\label{fig:fig2}
+\end{figure}
+
+\begin{figure}[!htbp]
+\centering
+\caption{Distribution of Journalist Ideology by Outlet}
+\includegraphics[scale=1]{../figs/media_dotplot_aug.pdf}
+\label{fig:fig3}
+\end{figure}
+
+
+\section*{Discussion}
+
+Accusations of news media bias are common. Some point to the fact that journalists tend to lean left, while others contend that publishers tend to be right-leaning. Still others note that both journalists and publishers may be able to distance themselves from their own views and ideas as they craft and distribute news content \citep[see][p. 250-258 for an overview]{morton2005}. Though, those working within media organizations note that editors and publishers exercise consideration discretion in determining what makes the news \citep{goldberg2001, orkent2004}.
+
+These accusations are also concerning as research suggests a variety of consequences for biased news. For one, \citet{ladd2011} demonstrates that perceptions of media bias have been linked to a precipitous decline in media trust over time. Low levels of media trust have led citizens away from more balanced mainstream sources of news and into alternative and more partisan media, which has had consequences for citizens' political attitudes, beliefs, and voting behavior. Related, \citet{arceneaux2012} show that today's mainstream news environment presents oppositional voices sufficient to lead to polarization. Two, \citet{dellavigna2007} show that the expansion of Fox News---a source widely understood to favor conservative viewpoints---corresponded with an increase in the vote share for Republicans. Finally, returning to an older literature on the power of media endorsements of candidates in elections \citep[e.g][]{erikson1976}, \citet{ladd2009}, exploit a rare shift in editorial endorsement on the part of a leading newspaper in Britain show that the political voice of the media can have significant influence on its audience, with estimates of persuasion leading to vote change of the magnitude of 10 to 25 percent.
+
+Methods of capturing bias, however, have been in want. Although in the past decade, scholars have turned to indirect measures based on either speech or social network data. The guiding principle for studies based on speech is that politicians communicate their left/right leanings in their statements made on the floor of the legislature. Media may also communicate their left/right leanings if they adopt similar ``speech" patterns to left/right politicians. Concerning the second approach, here the rationale is that social media users make informed decisions about who to follow. The aggregation of these informed decisions helps reveal information about the entity being followed. If a given news outlet is followed by members of the public who also follow liberal politicians, then we can infer that the outlet biases its information. Our approach has been to rely on both speech and social network data to present new estimates of media bias for the United Kingdom. Although our exercise has been a computationally intense one, our methodology is translatable to other Western democracies where the data exist.
+
+\clearpage
+\normalfont
+\normalsize
+\doublespace
+\bibliographystyle{apsr}
+\bibliography{multiple_measures}
+
+\clearpage
+
+\appendix
+\renewcommand{\thesection}{SI \arabic{section}}
+\renewcommand\thetable{\thesection.\arabic{table}}
+\renewcommand\thefigure{\thesection.\arabic{figure}}
+\counterwithin{figure}{section}
+
+\begin{center}
+\Large{Supporting Information}
+\end{center}
+
+\section{Distribution of Ideology of Media Sources}
+\label{full_dist}
+\begin{figure}[h]
+\centering
+\caption{Distribution of Social Network Based Estimates of Ideology of Media Sources}
+\includegraphics[scale=1]{../figs/boxplot_all_media_aug.pdf}
+\label{fig:fig4}
+\end{figure}
+
+\clearpage
+
+\label{full_dist}
+\begin{figure}[h]
+\centering
+\caption{Distribution of Text Based Estimates of Ideology of Media Sources}
+\includegraphics[scale=1]{../figs/hist_text_media.pdf}
+\caption*{The x-axis maps proportion Conservative.}
+\label{fig:fig5}
+\end{figure}
+
+\clearpage
+\section{Top 100 Predictors of Labour and Conservative Speech}
+\label{si_top100}
+\input{../tabs/text/top100_l.tex}
+\clearpage
+\input{../tabs/text/top100_c.tex}
+\clearpage
+
+\section{Summary of the Media Data}
+\label{si_media_sum}
+\input{../tabs/text/media_summary.tex}
+
+\end{document} 
